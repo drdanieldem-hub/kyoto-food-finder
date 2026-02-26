@@ -1,0 +1,33 @@
+{
+  "name": "Kyoto Food Finder",
+  "short_name": "Kyoto Food",
+  "description": "Discover 888 top-rated restaurants in Kyoto (Tabelog 3.5+ & Google 4.2+)",
+  "start_url": "/kyoto-food-finder/",
+  "scope": "/kyoto-food-finder/",
+  "display": "standalone",
+  "background_color": "#667eea",
+  "theme_color": "#667eea",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["food", "travel", "lifestyle"],
+  "screenshots": [
+    {
+      "src": "screenshot.png",
+      "sizes": "1080x1920",
+      "type": "image/png"
+    }
+  ]
+}
