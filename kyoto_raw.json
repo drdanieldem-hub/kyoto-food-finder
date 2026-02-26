@@ -1,0 +1,7202 @@
+[
+  {
+    "name": "道人",
+    "tabelog_rating": 4.65,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "仁修樓",
+    "tabelog_rating": 4.61,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "飯田",
+    "tabelog_rating": 4.59,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "緒方",
+    "tabelog_rating": 4.57,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "啐啄 つか本",
+    "tabelog_rating": 4.55,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "徳ㇵ本也",
+    "tabelog_rating": 4.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "富小路 やま岸",
+    "tabelog_rating": 4.51,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "竹屋町 三多",
+    "tabelog_rating": 4.49,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "にくの匠 三芳",
+    "tabelog_rating": 4.46,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "やまぐち",
+    "tabelog_rating": 4.46,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "木山",
+    "tabelog_rating": 4.44,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "きう",
+    "tabelog_rating": 4.4,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "中国菜 Guu",
+    "tabelog_rating": 4.39,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "京天神 野口",
+    "tabelog_rating": 4.38,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "廣澤",
+    "tabelog_rating": 4.38,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "にしぶち飯店",
+    "tabelog_rating": 4.36,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "齋華",
+    "tabelog_rating": 4.36,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "旬席 鈴江",
+    "tabelog_rating": 4.36,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "東山 吉寿",
+    "tabelog_rating": 4.35,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "料理 川口",
+    "tabelog_rating": 4.34,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "祇園 さゝ木",
+    "tabelog_rating": 4.33,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "NOMI RESTAURANT",
+    "tabelog_rating": 4.33,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "日本料理 研野",
+    "tabelog_rating": 4.32,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "草喰 なかひがし",
+    "tabelog_rating": 4.29,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "食堂 おがわ",
+    "tabelog_rating": 4.28,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "深夜焼肉 だいちゃん",
+    "tabelog_rating": 4.28,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "くいしんぼー山中",
+    "tabelog_rating": 4.27,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "しろ",
+    "tabelog_rating": 4.27,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "未在",
+    "tabelog_rating": 4.25,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "祇園 にし",
+    "tabelog_rating": 4.25,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "魚菜料理 縄屋",
+    "tabelog_rating": 4.25,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "御料理 はやし",
+    "tabelog_rating": 4.24,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "美山荘",
+    "tabelog_rating": 4.24,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "鳥さき",
+    "tabelog_rating": 4.23,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "御幸町 田がわ",
+    "tabelog_rating": 4.23,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "山玄茶",
+    "tabelog_rating": 4.22,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ひがしやま 司",
+    "tabelog_rating": 4.2,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "御料理 光安",
+    "tabelog_rating": 4.2,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "京 静華",
+    "tabelog_rating": 4.18,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "東山 緒方",
+    "tabelog_rating": 4.18,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "安参",
+    "tabelog_rating": 4.17,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "室町 和久傳",
+    "tabelog_rating": 4.17,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "菊乃井 本店",
+    "tabelog_rating": 4.16,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "青蓮院門跡前 月おか",
+    "tabelog_rating": 4.16,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "cenci",
+    "tabelog_rating": 4.15,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ぎおん 阪川",
+    "tabelog_rating": 4.13,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "高台寺 和久傳",
+    "tabelog_rating": 4.12,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "真白",
+    "tabelog_rating": 4.12,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "MOTOI",
+    "tabelog_rating": 4.11,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "RADICE",
+    "tabelog_rating": 4.1,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "祇園 にしかわ",
+    "tabelog_rating": 4.08,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "祇園 大渡",
+    "tabelog_rating": 4.07,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "八寸",
+    "tabelog_rating": 4.06,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "杦",
+    "tabelog_rating": 4.03,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "リストランテ ナカモト",
+    "tabelog_rating": 4.03,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "VELROSIER",
+    "tabelog_rating": 4.02,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "タカヤマ",
+    "tabelog_rating": 4.02,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "大市",
+    "tabelog_rating": 4.01,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "洋食 おがた",
+    "tabelog_rating": 4.0,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "IL GARAGE",
+    "tabelog_rating": 4.0,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "おたぎ",
+    "tabelog_rating": 4.0,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "嘯月",
+    "tabelog_rating": 3.99,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "Gibier MIYAMA",
+    "tabelog_rating": 3.99,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "田舎の大鵬",
+    "tabelog_rating": 3.99,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "エル・テソロ",
+    "tabelog_rating": 3.98,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "炭火割烹 いふき",
+    "tabelog_rating": 3.96,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "一僖",
+    "tabelog_rating": 3.96,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "祇園 又吉",
+    "tabelog_rating": 3.96,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "食堂 みやざき",
+    "tabelog_rating": 3.95,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "新門前 米村",
+    "tabelog_rating": 3.94,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ぎをん鮨尚充",
+    "tabelog_rating": 3.94,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "middle",
+    "tabelog_rating": 3.94,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "京都和久傳",
+    "tabelog_rating": 3.92,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "瓢亭 本店",
+    "tabelog_rating": 3.92,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "京懐石 吉泉",
+    "tabelog_rating": 3.92,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "山元麺蔵",
+    "tabelog_rating": 3.91,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "よこい",
+    "tabelog_rating": 3.91,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "アッサンブラージュ カキモト",
+    "tabelog_rating": 3.9,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "前田",
+    "tabelog_rating": 3.9,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ロッキングチェア",
+    "tabelog_rating": 3.89,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "京都 吉兆 嵐山本店",
+    "tabelog_rating": 3.88,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "京趣味 菱岩",
+    "tabelog_rating": 3.88,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "LURRA°",
+    "tabelog_rating": 3.88,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "BAR TALISKER",
+    "tabelog_rating": 3.88,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "魚津屋",
+    "tabelog_rating": 3.88,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "茶寮 宝泉",
+    "tabelog_rating": 3.87,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "天ぷら 京星",
+    "tabelog_rating": 3.87,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "安久",
+    "tabelog_rating": 3.87,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "川端道喜",
+    "tabelog_rating": 3.86,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "今",
+    "tabelog_rating": 3.86,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "森林食堂",
+    "tabelog_rating": 3.85,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "実伶",
+    "tabelog_rating": 3.85,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "パティスリー タンドレス",
+    "tabelog_rating": 3.84,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "鮨まつもと",
+    "tabelog_rating": 3.84,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "レ・シャンドール",
+    "tabelog_rating": 3.84,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "KOKE",
+    "tabelog_rating": 3.84,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "祇園 きだ",
+    "tabelog_rating": 3.84,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "御菓子司 塩芳軒",
+    "tabelog_rating": 3.83,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "京 上賀茂 御料理秋山",
+    "tabelog_rating": 3.83,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "弧玖",
+    "tabelog_rating": 3.83,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "BAR Kingdom",
+    "tabelog_rating": 3.83,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ザ リビング パビリオン by アマン",
+    "tabelog_rating": 3.83,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "出町ふたば",
+    "tabelog_rating": 3.82,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "和ごころ 泉",
+    "tabelog_rating": 3.82,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "コリス",
+    "tabelog_rating": 3.82,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "綾小路 唐津",
+    "tabelog_rating": 3.82,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "浜作 新本店",
+    "tabelog_rating": 3.82,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ひつじ",
+    "tabelog_rating": 3.81,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "カルバドール",
+    "tabelog_rating": 3.81,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "天ぷら 松",
+    "tabelog_rating": 3.8,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "Droit",
+    "tabelog_rating": 3.8,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "パティスリーエス",
+    "tabelog_rating": 3.79,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "グリルフレンチ",
+    "tabelog_rating": 3.79,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "焼鳥 京都橘",
+    "tabelog_rating": 3.79,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "炭平",
+    "tabelog_rating": 3.79,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "鍵善良房 四条本店",
+    "tabelog_rating": 3.78,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "グラン・ヴァニーユ",
+    "tabelog_rating": 3.78,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "祇園 末友",
+    "tabelog_rating": 3.78,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "とり料理 瀬戸",
+    "tabelog_rating": 3.78,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "レーヌ デ プレ",
+    "tabelog_rating": 3.78,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ぎをん 遠藤",
+    "tabelog_rating": 3.78,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "にし野",
+    "tabelog_rating": 3.78,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "阿闍梨餅本舗 京菓子司 満月 本店",
+    "tabelog_rating": 3.77,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "大極殿本舗 六角店",
+    "tabelog_rating": 3.77,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "空蝉亭",
+    "tabelog_rating": 3.77,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "肉料理かなえ",
+    "tabelog_rating": 3.77,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "肉料理 荒川",
+    "tabelog_rating": 3.77,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "焼肉やまちゃん",
+    "tabelog_rating": 3.77,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "私房菜 すみよし",
+    "tabelog_rating": 3.77,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ちさき",
+    "tabelog_rating": 3.77,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "たま木亭",
+    "tabelog_rating": 3.76,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "御菓子司 中村軒",
+    "tabelog_rating": 3.76,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "粟餅所・澤屋",
+    "tabelog_rating": 3.76,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "宝泉 JR新幹線京都駅店",
+    "tabelog_rating": 3.76,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "味 ふくしま",
+    "tabelog_rating": 3.76,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ドーディチ",
+    "tabelog_rating": 3.76,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "イーパンツァイタナカ",
+    "tabelog_rating": 3.76,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "洋食堂 すずき",
+    "tabelog_rating": 3.76,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "柊家旅館",
+    "tabelog_rating": 3.76,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ぎをん 福志",
+    "tabelog_rating": 3.76,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "la buche",
+    "tabelog_rating": 3.76,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "CAINOYA",
+    "tabelog_rating": 3.76,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "麺屋 極鶏 一乗寺本店",
+    "tabelog_rating": 3.75,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ぎおん徳屋",
+    "tabelog_rating": 3.75,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ファイブラン",
+    "tabelog_rating": 3.75,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "フリップアップ",
+    "tabelog_rating": 3.75,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "呑小路 やま岸",
+    "tabelog_rating": 3.75,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ヴェーナ",
+    "tabelog_rating": 3.75,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "食堂えびちゃん",
+    "tabelog_rating": 3.75,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "研覃 ほりべ",
+    "tabelog_rating": 3.75,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "鮨 こんどう",
+    "tabelog_rating": 3.75,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "宮川町ほった",
+    "tabelog_rating": 3.75,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "本家 第一旭 本店",
+    "tabelog_rating": 3.74,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "麦の夜明け",
+    "tabelog_rating": 3.74,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "エンボカ 京都",
+    "tabelog_rating": 3.74,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "本家月餅家直正",
+    "tabelog_rating": 3.74,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "山地陽介",
+    "tabelog_rating": 3.74,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "祇園ろはん",
+    "tabelog_rating": 3.74,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "蛸長",
+    "tabelog_rating": 3.74,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "京菓子司 松寿軒",
+    "tabelog_rating": 3.74,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "祇園 丸山",
+    "tabelog_rating": 3.74,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "隆兵そば",
+    "tabelog_rating": 3.74,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "俵屋旅館",
+    "tabelog_rating": 3.74,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "青いけ",
+    "tabelog_rating": 3.74,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ルーデンス",
+    "tabelog_rating": 3.74,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "estilo h",
+    "tabelog_rating": 3.74,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "水の",
+    "tabelog_rating": 3.74,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "MOT",
+    "tabelog_rating": 3.74,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "La Biographie",
+    "tabelog_rating": 3.74,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "MUBE",
+    "tabelog_rating": 3.74,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "吟醸らーめん 久保田",
+    "tabelog_rating": 3.73,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "あぶり餅 本家 根元 かざりや",
+    "tabelog_rating": 3.73,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "セアブラノ神 壬生本店",
+    "tabelog_rating": 3.73,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "俺のラーメン あっぱれ屋",
+    "tabelog_rating": 3.73,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "まるき製パン所",
+    "tabelog_rating": 3.73,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "喫茶葦島",
+    "tabelog_rating": 3.73,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "茶房いせはん",
+    "tabelog_rating": 3.73,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "らぁ麺 とうひち",
+    "tabelog_rating": 3.73,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "今西軒",
+    "tabelog_rating": 3.73,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "おがわ",
+    "tabelog_rating": 3.73,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "炭焼創彩鳥家 人見",
+    "tabelog_rating": 3.73,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "祇園 鮨 忠保",
+    "tabelog_rating": 3.73,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "のぐち 継",
+    "tabelog_rating": 3.73,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "料理屋まえかわ",
+    "tabelog_rating": 3.73,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "シェモア",
+    "tabelog_rating": 3.73,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ユキフラン佐藤",
+    "tabelog_rating": 3.73,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "熙怡",
+    "tabelog_rating": 3.73,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "麺や高倉二条",
+    "tabelog_rating": 3.72,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "フランソア喫茶室",
+    "tabelog_rating": 3.72,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ワルダー",
+    "tabelog_rating": 3.72,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "一和 一文字屋 和輔",
+    "tabelog_rating": 3.72,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "大鵬",
+    "tabelog_rating": 3.72,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "麺屋 さん田",
+    "tabelog_rating": 3.72,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "マリベル 京都本店",
+    "tabelog_rating": 3.72,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "本格手打うどん 大河",
+    "tabelog_rating": 3.72,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "熟成豚 かわむら",
+    "tabelog_rating": 3.72,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "緑寿庵清水",
+    "tabelog_rating": 3.72,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "アルチザナル",
+    "tabelog_rating": 3.72,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "亀末廣",
+    "tabelog_rating": 3.72,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "洋食の店　みしな",
+    "tabelog_rating": 3.72,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "fudo",
+    "tabelog_rating": 3.72,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ザ・コモン・ワン・バー・キョウト",
+    "tabelog_rating": 3.72,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "フィンランディア バー",
+    "tabelog_rating": 3.72,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ごだん 宮ざわ",
+    "tabelog_rating": 3.72,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "オテルドゥオガワ",
+    "tabelog_rating": 3.72,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "祇園もりわき",
+    "tabelog_rating": 3.72,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "佳肴岡もと",
+    "tabelog_rating": 3.72,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "二条城ふる田",
+    "tabelog_rating": 3.72,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "祇園にしむら",
+    "tabelog_rating": 3.72,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "御所 岩さき",
+    "tabelog_rating": 3.72,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "スマート珈琲店",
+    "tabelog_rating": 3.71,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ミスター・ギョーザ",
+    "tabelog_rating": 3.71,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "無鉄砲 総本店",
+    "tabelog_rating": 3.71,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "拳ラーメン",
+    "tabelog_rating": 3.71,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "麺屋 猪一",
+    "tabelog_rating": 3.71,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "LA VOITURE",
+    "tabelog_rating": 3.71,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ゼンカフェ",
+    "tabelog_rating": 3.71,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ELEPHANT FACTORY COFFEE",
+    "tabelog_rating": 3.71,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "まっしゅ京都",
+    "tabelog_rating": 3.71,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "満月 JR京都伊勢丹店",
+    "tabelog_rating": 3.71,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "晴耕雨読",
+    "tabelog_rating": 3.71,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "焼肉矢澤 京都",
+    "tabelog_rating": 3.71,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "Bar K6",
+    "tabelog_rating": 3.71,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "甘泉堂",
+    "tabelog_rating": 3.71,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "洛叉庵",
+    "tabelog_rating": 3.71,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "藤むら",
+    "tabelog_rating": 3.71,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "日本料理 とくを",
+    "tabelog_rating": 3.71,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "祇園サンボア",
+    "tabelog_rating": 3.71,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "わしょく宝来",
+    "tabelog_rating": 3.71,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "天ぷら 川辰",
+    "tabelog_rating": 3.71,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "日本料理 櫻川",
+    "tabelog_rating": 3.71,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "さえき",
+    "tabelog_rating": 3.71,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "なかむら",
+    "tabelog_rating": 3.71,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "祇園 まんま",
+    "tabelog_rating": 3.71,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "十五",
+    "tabelog_rating": 3.71,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ワインと和食 みくり",
+    "tabelog_rating": 3.71,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "料 かわしま",
+    "tabelog_rating": 3.71,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "中華そば 高安",
+    "tabelog_rating": 3.7,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "加茂みたらし茶屋",
+    "tabelog_rating": 3.7,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "あいつのラーメン かたぐるま 本店",
+    "tabelog_rating": 3.7,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "喫茶 マドラグ",
+    "tabelog_rating": 3.7,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "山崎麺二郎",
+    "tabelog_rating": 3.7,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "赤垣屋",
+    "tabelog_rating": 3.7,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ラーメン二郎  京都店",
+    "tabelog_rating": 3.7,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "うなぎ屋 廣川",
+    "tabelog_rating": 3.7,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "村上開新堂",
+    "tabelog_rating": 3.7,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "手打ち蕎麦 かね井",
+    "tabelog_rating": 3.7,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "みつばち",
+    "tabelog_rating": 3.7,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "サロン・ド・ロワイヤル 京都店",
+    "tabelog_rating": 3.7,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "Croix-Rousse",
+    "tabelog_rating": 3.7,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "朝食 喜心",
+    "tabelog_rating": 3.7,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "bar K家 本館",
+    "tabelog_rating": 3.7,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "クロア",
+    "tabelog_rating": 3.7,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "廣東餐館 鳳飛",
+    "tabelog_rating": 3.7,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "セクションドール",
+    "tabelog_rating": 3.7,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "たち呑み しゃーぷ",
+    "tabelog_rating": 3.7,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "味舌",
+    "tabelog_rating": 3.7,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "RESTAURANT hidamarino",
+    "tabelog_rating": 3.7,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "祇園 一道",
+    "tabelog_rating": 3.7,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "プチレストラン ないとう",
+    "tabelog_rating": 3.7,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "京中華 牧定",
+    "tabelog_rating": 3.7,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "鳥かご",
+    "tabelog_rating": 3.7,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "つろく",
+    "tabelog_rating": 3.7,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "祇園 肉料理おか",
+    "tabelog_rating": 3.7,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "星のや 京都 ダイニング",
+    "tabelog_rating": 3.7,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ゑび秀",
+    "tabelog_rating": 3.7,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "せん田",
+    "tabelog_rating": 3.7,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "肉料理やま",
+    "tabelog_rating": 3.7,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "貝だし麺 きた田",
+    "tabelog_rating": 3.69,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "山本まんぼ",
+    "tabelog_rating": 3.69,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "祇園きなな 本店",
+    "tabelog_rating": 3.69,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "スパイスチャンバー",
+    "tabelog_rating": 3.69,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "生きている珈琲",
+    "tabelog_rating": 3.69,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "イル ギオットーネ 京都本店",
+    "tabelog_rating": 3.69,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "泉門天 祇園本店",
+    "tabelog_rating": 3.69,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "二條若狭屋 寺町店",
+    "tabelog_rating": 3.69,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "カフェ 火裏蓮花",
+    "tabelog_rating": 3.69,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "麺屋 Somie's",
+    "tabelog_rating": 3.69,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "モリタ屋 木屋町店",
+    "tabelog_rating": 3.69,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "メゾン ド フルージュ",
+    "tabelog_rating": 3.69,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "江畑",
+    "tabelog_rating": 3.69,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "大國屋鰻兵衞",
+    "tabelog_rating": 3.69,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "Cucina Italiana 東洞",
+    "tabelog_rating": 3.69,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "中国四川料理 駱駝",
+    "tabelog_rating": 3.69,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "パティスリー エス サロン",
+    "tabelog_rating": 3.69,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "麩嘉 府庁前本店",
+    "tabelog_rating": 3.69,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "紫野和久傳 ジェイアール京都伊勢丹店",
+    "tabelog_rating": 3.69,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "割烹 やました",
+    "tabelog_rating": 3.69,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "FORNI",
+    "tabelog_rating": 3.69,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "水暉 ザ・リッツ・カールトン京都",
+    "tabelog_rating": 3.69,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "平野屋",
+    "tabelog_rating": 3.69,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ひいらぎ亭",
+    "tabelog_rating": 3.69,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "竹ざき",
+    "tabelog_rating": 3.69,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "割烹 市川",
+    "tabelog_rating": 3.69,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "なる屋",
+    "tabelog_rating": 3.69,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "麺屋 優光",
+    "tabelog_rating": 3.68,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "いづう",
+    "tabelog_rating": 3.68,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "新宿めんや風花",
+    "tabelog_rating": 3.68,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "麺処 鶏谷",
+    "tabelog_rating": 3.68,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "Gion Duck Noodles",
+    "tabelog_rating": 3.68,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "松之助 京都本店",
+    "tabelog_rating": 3.68,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "高木珈琲店 高辻本店",
+    "tabelog_rating": 3.68,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "エズ ブルー",
+    "tabelog_rating": 3.68,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "瓢亭 別館",
+    "tabelog_rating": 3.68,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "祇園ねぎ焼 かな 東店",
+    "tabelog_rating": 3.68,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "大極殿本舗 本店",
+    "tabelog_rating": 3.68,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "しゅばく",
+    "tabelog_rating": 3.68,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "麩嘉 錦店",
+    "tabelog_rating": 3.68,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "末廣",
+    "tabelog_rating": 3.68,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "レディオベーグル",
+    "tabelog_rating": 3.68,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "多来多来",
+    "tabelog_rating": 3.68,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "IL PAPPALARDO",
+    "tabelog_rating": 3.68,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "汽",
+    "tabelog_rating": 3.68,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "かしや",
+    "tabelog_rating": 3.68,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "酒場 井倉木材",
+    "tabelog_rating": 3.68,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "酒処 てらやま",
+    "tabelog_rating": 3.68,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ホルモン千葉",
+    "tabelog_rating": 3.68,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ソローノ",
+    "tabelog_rating": 3.68,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "祇園 なん波",
+    "tabelog_rating": 3.68,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "祇園楽味",
+    "tabelog_rating": 3.68,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "KYOTO STAR BAR",
+    "tabelog_rating": 3.68,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "バー クーゲル",
+    "tabelog_rating": 3.68,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "中善",
+    "tabelog_rating": 3.68,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "しゅん逢 紗々木",
+    "tabelog_rating": 3.68,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "洋食堂 のろ",
+    "tabelog_rating": 3.68,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "そば茶寮 澤正",
+    "tabelog_rating": 3.68,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ぎおん 元勢",
+    "tabelog_rating": 3.68,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ステーキハウス新吾",
+    "tabelog_rating": 3.68,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ドミニク・ブシェ・キョート・ル・テッパンヤキ",
+    "tabelog_rating": 3.68,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "京都 鮨ノ蔵",
+    "tabelog_rating": 3.68,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "MOKO",
+    "tabelog_rating": 3.68,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "wabiya",
+    "tabelog_rating": 3.68,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "割烹 はらだ",
+    "tabelog_rating": 3.68,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "マルシン飯店",
+    "tabelog_rating": 3.67,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "和醸良麺 すがり",
+    "tabelog_rating": 3.67,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "京うどん 生蕎麦 岡北",
+    "tabelog_rating": 3.67,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "カマル",
+    "tabelog_rating": 3.67,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "らーめん 鶴武者",
+    "tabelog_rating": 3.67,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "カフェ ビブリオティック ハロー!",
+    "tabelog_rating": 3.67,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "喫茶チロル",
+    "tabelog_rating": 3.67,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "つけ麺 きらり",
+    "tabelog_rating": 3.67,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "市川屋珈琲",
+    "tabelog_rating": 3.67,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "コーヒーハウス マキ",
+    "tabelog_rating": 3.67,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "フルーツパーラーヤオイソ",
+    "tabelog_rating": 3.67,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "うめぞの カフェアンドギャラリー",
+    "tabelog_rating": 3.67,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "K36",
+    "tabelog_rating": 3.67,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "とんかつ山本",
+    "tabelog_rating": 3.67,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "甘栗の老舗 林万昌堂 本店",
+    "tabelog_rating": 3.67,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "マダム紅蘭",
+    "tabelog_rating": 3.67,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ナカガワ小麦店",
+    "tabelog_rating": 3.67,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ベンジャミンステーキハウス 京都",
+    "tabelog_rating": 3.67,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "くちばしモダン",
+    "tabelog_rating": 3.67,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "レガル",
+    "tabelog_rating": 3.67,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "和食晴ル",
+    "tabelog_rating": 3.67,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "美齢",
+    "tabelog_rating": 3.67,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "らぁ麺や ふぢとら",
+    "tabelog_rating": 3.67,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "NISHITOMIYA",
+    "tabelog_rating": 3.67,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "御菓子司 聚洸",
+    "tabelog_rating": 3.67,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "肉料理 澁谷",
+    "tabelog_rating": 3.67,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "COPPIE",
+    "tabelog_rating": 3.67,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "いとう",
+    "tabelog_rating": 3.67,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ぼるた",
+    "tabelog_rating": 3.67,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ゆたか",
+    "tabelog_rating": 3.67,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "京都 いと",
+    "tabelog_rating": 3.67,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "串かんざし 久",
+    "tabelog_rating": 3.67,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "日出鮨",
+    "tabelog_rating": 3.67,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "凌霄",
+    "tabelog_rating": 3.67,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ぎをん 小森",
+    "tabelog_rating": 3.66,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "三嶋亭 本店",
+    "tabelog_rating": 3.66,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "麺屋 猪一 離れ",
+    "tabelog_rating": 3.66,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "アジェ 松原本店",
+    "tabelog_rating": 3.66,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ビリヤニ専門店 INDIA GATE",
+    "tabelog_rating": 3.66,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "麺処 虵の目屋",
+    "tabelog_rating": 3.66,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "柳小路 TAKA",
+    "tabelog_rating": 3.66,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "むろまち 加地",
+    "tabelog_rating": 3.66,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "CLAMP COFFEE SARASA",
+    "tabelog_rating": 3.66,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "あきひで",
+    "tabelog_rating": 3.66,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "クリケット",
+    "tabelog_rating": 3.66,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "柚子屋旅館・一心居",
+    "tabelog_rating": 3.66,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "カフェ・ドン バイ スフェラ",
+    "tabelog_rating": 3.66,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "神馬堂",
+    "tabelog_rating": 3.66,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "シェ・アガタ",
+    "tabelog_rating": 3.66,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "カフェ・ヴェルディ",
+    "tabelog_rating": 3.66,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "天婦羅処 京林泉",
+    "tabelog_rating": 3.66,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ぎをん森幸",
+    "tabelog_rating": 3.66,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "まつもと",
+    "tabelog_rating": 3.66,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "パンスケープ 二条駅前店",
+    "tabelog_rating": 3.66,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "京都宇治金時や",
+    "tabelog_rating": 3.66,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "たかつじ 佳粋",
+    "tabelog_rating": 3.66,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "余志屋",
+    "tabelog_rating": 3.66,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "亀廣永",
+    "tabelog_rating": 3.66,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "京都 ネーゼ",
+    "tabelog_rating": 3.66,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "燕",
+    "tabelog_rating": 3.66,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "壺味",
+    "tabelog_rating": 3.66,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "メッシタ パーネ エ ヴィーノ",
+    "tabelog_rating": 3.66,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "東寿し",
+    "tabelog_rating": 3.66,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "Restaurant DA CIRO",
+    "tabelog_rating": 3.66,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "割烹　梅津",
+    "tabelog_rating": 3.66,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "monk",
+    "tabelog_rating": 3.66,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "祇園 やま岸",
+    "tabelog_rating": 3.66,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "鮨 おび乃",
+    "tabelog_rating": 3.66,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "竹久",
+    "tabelog_rating": 3.66,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "割烹 しなとみ",
+    "tabelog_rating": 3.66,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "麺屋 たけ井 本店",
+    "tabelog_rating": 3.65,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "グリル＆コーヒー はせがわ",
+    "tabelog_rating": 3.65,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "風来房",
+    "tabelog_rating": 3.65,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "SPICE GATE",
+    "tabelog_rating": 3.65,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "六曜社珈琲店",
+    "tabelog_rating": 3.65,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "六曜社 地下店",
+    "tabelog_rating": 3.65,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "カカオ マーケット バイ マリベル",
+    "tabelog_rating": 3.65,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "丸太町十二段家",
+    "tabelog_rating": 3.65,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "蕎麦 ろうじな",
+    "tabelog_rating": 3.65,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "カレー専門店 ビィヤント",
+    "tabelog_rating": 3.65,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "モグモグベーカリー",
+    "tabelog_rating": 3.65,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "キッチンパパ",
+    "tabelog_rating": 3.65,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "亀屋良長 本店",
+    "tabelog_rating": 3.65,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "みよしや",
+    "tabelog_rating": 3.65,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "重厚軍団",
+    "tabelog_rating": 3.65,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ピッツェリア・マリータ",
+    "tabelog_rating": 3.65,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "しろはとベーカリー",
+    "tabelog_rating": 3.65,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "神馬",
+    "tabelog_rating": 3.65,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "手作りパン工房 コネルヤ",
+    "tabelog_rating": 3.65,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "美玉屋",
+    "tabelog_rating": 3.65,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "フルール・ド・ファリーヌ",
+    "tabelog_rating": 3.65,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ベッカライ・ペルケオ・アルト・ハイデルベルク",
+    "tabelog_rating": 3.65,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "KANEGURA",
+    "tabelog_rating": 3.65,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "蕎麦屋 にこら",
+    "tabelog_rating": 3.65,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ラ・ロカンダ ザ・リッツ・カールトン京都",
+    "tabelog_rating": 3.65,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ボン・ボランテ",
+    "tabelog_rating": 3.65,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "マリーフランス 北山店",
+    "tabelog_rating": 3.65,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "リストランテ ティー ブイ ビー",
+    "tabelog_rating": 3.65,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "京都 くりや",
+    "tabelog_rating": 3.65,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "OHAYO biscuit",
+    "tabelog_rating": 3.65,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "りきちゃん 祇園店",
+    "tabelog_rating": 3.65,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "松屋常盤",
+    "tabelog_rating": 3.65,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "糸仙",
+    "tabelog_rating": 3.65,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "恒屋伝助",
+    "tabelog_rating": 3.65,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "うずら屋 京都・四条",
+    "tabelog_rating": 3.65,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "そ・かわひがし",
+    "tabelog_rating": 3.65,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "Synager",
+    "tabelog_rating": 3.65,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "Bini",
+    "tabelog_rating": 3.65,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "観山",
+    "tabelog_rating": 3.65,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "だし料理 十",
+    "tabelog_rating": 3.65,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ドミニク・ブシェ・キョート・ル・レストラン",
+    "tabelog_rating": 3.65,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "天若",
+    "tabelog_rating": 3.65,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "koe donuts 京都店",
+    "tabelog_rating": 3.64,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "梅園 河原町店",
+    "tabelog_rating": 3.64,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ブリアン 北山本店",
+    "tabelog_rating": 3.64,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "築地",
+    "tabelog_rating": 3.64,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "京都カレー製作所 カリル",
+    "tabelog_rating": 3.64,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "太陽カレー",
+    "tabelog_rating": 3.64,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "Nippon Ramen 凛 KYOTO",
+    "tabelog_rating": 3.64,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "菓子・茶房 チェカ",
+    "tabelog_rating": 3.64,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "さるや",
+    "tabelog_rating": 3.64,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ムジャラ",
+    "tabelog_rating": 3.64,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "GOSPEL",
+    "tabelog_rating": 3.64,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "鳥名子",
+    "tabelog_rating": 3.64,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "亀屋陸奥",
+    "tabelog_rating": 3.64,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "祗園245",
+    "tabelog_rating": 3.64,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "近又",
+    "tabelog_rating": 3.64,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ミスリム",
+    "tabelog_rating": 3.64,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "料理屋 自在",
+    "tabelog_rating": 3.64,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "祇園 川上",
+    "tabelog_rating": 3.64,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "亀屋良永",
+    "tabelog_rating": 3.64,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "時菜今日萬祇園",
+    "tabelog_rating": 3.64,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "京都 和牛料理 一石三鳥",
+    "tabelog_rating": 3.64,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "こりょうり たか屋",
+    "tabelog_rating": 3.64,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "祇園おかだ",
+    "tabelog_rating": 3.64,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "大神",
+    "tabelog_rating": 3.64,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "畑かく",
+    "tabelog_rating": 3.64,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "肉の隠れ家 おあがり 祇園店",
+    "tabelog_rating": 3.64,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "京都肉割烹 みや田",
+    "tabelog_rating": 3.64,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "炭焼 芹生",
+    "tabelog_rating": 3.64,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "京都三条 箔",
+    "tabelog_rating": 3.64,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "鮨 楽味",
+    "tabelog_rating": 3.64,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "Luca",
+    "tabelog_rating": 3.64,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "むろい",
+    "tabelog_rating": 3.64,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "Kobe Beef steak モーリヤ 祇園",
+    "tabelog_rating": 3.64,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "へんこつ",
+    "tabelog_rating": 3.63,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "無碍山房 サロン・ド・ムゲ",
+    "tabelog_rating": 3.63,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "いいちょ ラーメン",
+    "tabelog_rating": 3.63,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "つけめん 恵那く",
+    "tabelog_rating": 3.63,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "葵家やきもち総本舗",
+    "tabelog_rating": 3.63,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "頑固麺",
+    "tabelog_rating": 3.63,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "いなりふたば",
+    "tabelog_rating": 3.63,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "菓子職人",
+    "tabelog_rating": 3.63,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "馬耳東風",
+    "tabelog_rating": 3.63,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "パティスリー タツヒト サトイ",
+    "tabelog_rating": 3.63,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "鳥の木珈琲",
+    "tabelog_rating": 3.63,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "楽庵",
+    "tabelog_rating": 3.63,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "いはら田",
+    "tabelog_rating": 3.63,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "京の虎牛 近江牛焼肉と神戸ビーフ",
+    "tabelog_rating": 3.63,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "祇園ゆやま",
+    "tabelog_rating": 3.63,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "宝泉堂 本店",
+    "tabelog_rating": 3.63,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "水だき 萬治郎",
+    "tabelog_rating": 3.63,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "南禅寺参道 菊水",
+    "tabelog_rating": 3.63,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "櫻バー",
+    "tabelog_rating": 3.63,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "おうち割烹 あや富",
+    "tabelog_rating": 3.63,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "沐",
+    "tabelog_rating": 3.63,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "祇園 静水香",
+    "tabelog_rating": 3.63,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "明けましておめでとうございます",
+    "tabelog_rating": 3.63,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "hakubi",
+    "tabelog_rating": 3.63,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "炭棲堂",
+    "tabelog_rating": 3.63,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "鮨 森学",
+    "tabelog_rating": 3.63,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "なな治",
+    "tabelog_rating": 3.63,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "麺屋 たけ井 R1店",
+    "tabelog_rating": 3.62,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "一乗寺中谷",
+    "tabelog_rating": 3.62,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "おにかい",
+    "tabelog_rating": 3.62,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "スイーツ カフェ キョウト ケイゾー",
+    "tabelog_rating": 3.62,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "祇をん う桶や う",
+    "tabelog_rating": 3.62,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "フクナガ901",
+    "tabelog_rating": 3.62,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "走井餅老舗",
+    "tabelog_rating": 3.62,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "RUFF",
+    "tabelog_rating": 3.62,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "かさぎ屋",
+    "tabelog_rating": 3.62,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "柳町",
+    "tabelog_rating": 3.62,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "Année",
+    "tabelog_rating": 3.62,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "焼きたてパン マンハッタン",
+    "tabelog_rating": 3.62,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "丸久小山園 西洞院店",
+    "tabelog_rating": 3.62,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "サロン ド テ エム エス アッシュ",
+    "tabelog_rating": 3.62,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "カヌレ",
+    "tabelog_rating": 3.62,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "吉田山せせり",
+    "tabelog_rating": 3.62,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "先斗町しゃぶしゃぶすき焼き きらく",
+    "tabelog_rating": 3.62,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "京・富小路 天ぷら吉川",
+    "tabelog_rating": 3.62,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "六角ace",
+    "tabelog_rating": 3.62,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "リカータ",
+    "tabelog_rating": 3.62,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "Lino",
+    "tabelog_rating": 3.62,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ryu no hige",
+    "tabelog_rating": 3.62,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "蕎麦酒房 櫟",
+    "tabelog_rating": 3.62,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "御倉屋",
+    "tabelog_rating": 3.62,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "メゾン ド ヴァン 鶉亭",
+    "tabelog_rating": 3.62,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ル・キャトーズィエム",
+    "tabelog_rating": 3.62,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "カフェ デ コラソン",
+    "tabelog_rating": 3.62,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ＨＡＮＡ吉兆",
+    "tabelog_rating": 3.62,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "三本木商店",
+    "tabelog_rating": 3.62,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "祇園 いわさ起",
+    "tabelog_rating": 3.62,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "京都 柳馬場 ほん田亭",
+    "tabelog_rating": 3.62,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "uraiso",
+    "tabelog_rating": 3.62,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "仁王門 無為",
+    "tabelog_rating": 3.62,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "コムシコムサ",
+    "tabelog_rating": 3.62,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "Trattoria Annamaria",
+    "tabelog_rating": 3.62,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ルシェーヌ (長楽館)",
+    "tabelog_rating": 3.62,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "mane",
+    "tabelog_rating": 3.62,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "鰻・割烹 戸石",
+    "tabelog_rating": 3.62,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "室町 唯",
+    "tabelog_rating": 3.62,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "麺匠 たか松 本店",
+    "tabelog_rating": 3.61,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "喫茶 ソワレ",
+    "tabelog_rating": 3.61,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "京都祇園 天ぷら八坂圓堂",
+    "tabelog_rating": 3.61,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "デザートカフェ長楽館",
+    "tabelog_rating": 3.61,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ラーメンムギュ VOL.1本店",
+    "tabelog_rating": 3.61,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "新八茶屋",
+    "tabelog_rating": 3.61,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ジュメルニジュウク",
+    "tabelog_rating": 3.61,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "志る幸",
+    "tabelog_rating": 3.61,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "京都一の傳 本店",
+    "tabelog_rating": 3.61,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "京阪宇治駅前 駿河屋",
+    "tabelog_rating": 3.61,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "すし善",
+    "tabelog_rating": 3.61,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ザ・ロビーラウンジ ザ・リッツ・カールトン京都",
+    "tabelog_rating": 3.61,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "じき 宮ざわ",
+    "tabelog_rating": 3.61,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "八起庵 丸太町本店",
+    "tabelog_rating": 3.61,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "リストランテ野呂",
+    "tabelog_rating": 3.61,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "千登利亭",
+    "tabelog_rating": 3.61,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "露庵 菊乃井 木屋町店",
+    "tabelog_rating": 3.61,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "モリタ屋 四条猪熊本店",
+    "tabelog_rating": 3.61,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "Kew",
+    "tabelog_rating": 3.61,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "先斗町焼肉 きらく",
+    "tabelog_rating": 3.61,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ムレスナティーハウス 京都",
+    "tabelog_rating": 3.61,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "レストランひらまつ 高台寺",
+    "tabelog_rating": 3.61,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "本家船はしや",
+    "tabelog_rating": 3.61,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "五山望",
+    "tabelog_rating": 3.61,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "美濃吉本店 竹茂楼",
+    "tabelog_rating": 3.61,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "二条有恒",
+    "tabelog_rating": 3.61,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ノーウェアマン",
+    "tabelog_rating": 3.61,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "bar K家 別館",
+    "tabelog_rating": 3.61,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "アフィナージュ",
+    "tabelog_rating": 3.61,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "Pizzeria Napoletana Da Yuki",
+    "tabelog_rating": 3.61,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "はり清",
+    "tabelog_rating": 3.61,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ビストロヤナギハラ",
+    "tabelog_rating": 3.61,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "伯楽家常菜",
+    "tabelog_rating": 3.61,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "いちえんそう",
+    "tabelog_rating": 3.61,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "鮨割烹 なか一",
+    "tabelog_rating": 3.61,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "セル ドール",
+    "tabelog_rating": 3.61,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "串虎",
+    "tabelog_rating": 3.61,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "上古屋",
+    "tabelog_rating": 3.61,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "京野菜と炭火料理 庵都",
+    "tabelog_rating": 3.61,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "れんらく船",
+    "tabelog_rating": 3.61,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "居酒屋 ニエフ",
+    "tabelog_rating": 3.61,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "しゃぶしゃぶ すき焼き 食べ放題 和牛と豚 三条河原町店",
+    "tabelog_rating": 3.61,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ドゥフィーユ",
+    "tabelog_rating": 3.61,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "日本料理と日本酒 惠史",
+    "tabelog_rating": 3.61,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "鮨麻布 東山",
+    "tabelog_rating": 3.61,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "鶏匠 催",
+    "tabelog_rating": 3.61,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "とりの小路 やま岸",
+    "tabelog_rating": 3.61,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "RESTAURANT KOGA",
+    "tabelog_rating": 3.61,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "天天有 本店",
+    "tabelog_rating": 3.6,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "中華そば ますたに 北白川本店",
+    "tabelog_rating": 3.6,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "然花抄院 京都室町本店",
+    "tabelog_rating": 3.6,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ソングバード コーヒー",
+    "tabelog_rating": 3.6,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "魚河岸 宮武",
+    "tabelog_rating": 3.6,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "京氷菓 つらら",
+    "tabelog_rating": 3.6,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "五十棲",
+    "tabelog_rating": 3.6,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "カステラ ド パウロ",
+    "tabelog_rating": 3.6,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ブラン・ピエール",
+    "tabelog_rating": 3.6,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "酒呑気 びんご",
+    "tabelog_rating": 3.6,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "古の花",
+    "tabelog_rating": 3.6,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "小梟",
+    "tabelog_rating": 3.6,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "To",
+    "tabelog_rating": 3.6,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "すきやき いろは 北店",
+    "tabelog_rating": 3.6,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ryuen",
+    "tabelog_rating": 3.6,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "亀屋清永",
+    "tabelog_rating": 3.6,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "味どころしん",
+    "tabelog_rating": 3.6,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ナンポルトクワ",
+    "tabelog_rating": 3.6,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "肉屋甲",
+    "tabelog_rating": 3.6,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "KIZAHASHI",
+    "tabelog_rating": 3.6,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "寿斗 ふかがわ",
+    "tabelog_rating": 3.6,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "りょうりや 御旅屋",
+    "tabelog_rating": 3.6,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "アルザス",
+    "tabelog_rating": 3.6,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "手打ち蕎麦・鮨 いまふく",
+    "tabelog_rating": 3.6,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "OndoriO",
+    "tabelog_rating": 3.6,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ふじ原",
+    "tabelog_rating": 3.6,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "HUNTER",
+    "tabelog_rating": 3.6,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "KIMURA",
+    "tabelog_rating": 3.6,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "町家四川 星月夜",
+    "tabelog_rating": 3.6,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "一品料理 高倉",
+    "tabelog_rating": 3.6,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "いのうえ",
+    "tabelog_rating": 3.6,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "パーラー koyaji",
+    "tabelog_rating": 3.6,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "くずしよしよし",
+    "tabelog_rating": 3.6,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ポルタロッサ",
+    "tabelog_rating": 3.6,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ローストビーフの店 Watanabe",
+    "tabelog_rating": 3.6,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "マルミヤ亭",
+    "tabelog_rating": 3.6,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "傳八",
+    "tabelog_rating": 3.6,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "一献 うえ原",
+    "tabelog_rating": 3.6,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "新福菜館 本店",
+    "tabelog_rating": 3.59,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "つくもうどん 塩小路本店",
+    "tabelog_rating": 3.59,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "京都祇園 おかる",
+    "tabelog_rating": 3.59,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "特製ラーメン 大中 本店",
+    "tabelog_rating": 3.59,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "和栗専門 紗織",
+    "tabelog_rating": 3.59,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "いづ重",
+    "tabelog_rating": 3.59,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "はふう 本店",
+    "tabelog_rating": 3.59,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ラーメン 藤 京都本店",
+    "tabelog_rating": 3.59,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ベルアメール 京都別邸",
+    "tabelog_rating": 3.59,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "amam dacotan 京都",
+    "tabelog_rating": 3.59,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "お好み焼吉野",
+    "tabelog_rating": 3.59,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "吉祥菓寮 祇園本店",
+    "tabelog_rating": 3.59,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "中華そば 六",
+    "tabelog_rating": 3.59,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "儘",
+    "tabelog_rating": 3.59,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "麺屋 じすり",
+    "tabelog_rating": 3.59,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "茶寮翠泉 高辻本店",
+    "tabelog_rating": 3.59,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "松籟庵",
+    "tabelog_rating": 3.59,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "SUGITORA",
+    "tabelog_rating": 3.59,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "とことんとりコトコト",
+    "tabelog_rating": 3.59,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ブルー ファー ツリー",
+    "tabelog_rating": 3.59,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "梅香堂",
+    "tabelog_rating": 3.59,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "洋菓子 ぎをん さかい",
+    "tabelog_rating": 3.59,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ショコラトリー ヒサシ",
+    "tabelog_rating": 3.59,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "CICON by NOHGA HOTEL",
+    "tabelog_rating": 3.59,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "西京焼き 京都やま六",
+    "tabelog_rating": 3.59,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "鴨川たかし",
+    "tabelog_rating": 3.59,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "京やきにく 弘 祗園山名庵",
+    "tabelog_rating": 3.59,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "よこちょう",
+    "tabelog_rating": 3.59,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "はつだ",
+    "tabelog_rating": 3.59,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "本マグロと島ごはん ぱなり 京都河原町三条",
+    "tabelog_rating": 3.59,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "雨の日も風の日も",
+    "tabelog_rating": 3.59,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "貴久政",
+    "tabelog_rating": 3.59,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "京都 鉄板焼 grow",
+    "tabelog_rating": 3.59,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "韓国料理 先斗町 李南河",
+    "tabelog_rating": 3.59,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "御料理 辰むら",
+    "tabelog_rating": 3.59,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "京の鴨料理 北斎",
+    "tabelog_rating": 3.59,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "手打ちそば 藤村",
+    "tabelog_rating": 3.59,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "Severance",
+    "tabelog_rating": 3.59,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "蛸八",
+    "tabelog_rating": 3.59,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "京都さしみ丸",
+    "tabelog_rating": 3.59,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "和フレンチ&BAR Le HUBLOT",
+    "tabelog_rating": 3.59,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ぎをん 藤",
+    "tabelog_rating": 3.59,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "一華",
+    "tabelog_rating": 3.59,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "都季",
+    "tabelog_rating": 3.59,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "なかむら",
+    "tabelog_rating": 3.59,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "京都 三条 やま平",
+    "tabelog_rating": 3.59,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "にこみ 鈴や",
+    "tabelog_rating": 3.59,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "くずし理",
+    "tabelog_rating": 3.59,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "アーム・ドゥ・ギャルソン",
+    "tabelog_rating": 3.59,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "博多長浜ラーメン みよし",
+    "tabelog_rating": 3.58,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "東大 京都店",
+    "tabelog_rating": 3.58,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "侘家古暦堂 祇園花見小路本店",
+    "tabelog_rating": 3.58,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "スプリングバレーブルワリー 京都",
+    "tabelog_rating": 3.58,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "名前のないラーメン屋",
+    "tabelog_rating": 3.58,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "とくら 京都三条店",
+    "tabelog_rating": 3.58,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ラーメン 大栄 本店",
+    "tabelog_rating": 3.58,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "あらた",
+    "tabelog_rating": 3.58,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "アラビカ京都 嵐山",
+    "tabelog_rating": 3.58,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ラーメン荘 地球規模で考えろ",
+    "tabelog_rating": 3.58,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "祇をん 萬屋",
+    "tabelog_rating": 3.58,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "池田屋 一乗寺店",
+    "tabelog_rating": 3.58,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "焼野菜 五十家",
+    "tabelog_rating": 3.58,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "モリタ屋 JR京都伊勢丹店",
+    "tabelog_rating": 3.58,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "立ち飲み やみー",
+    "tabelog_rating": 3.58,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "喫茶マドラグ 藤井大丸店",
+    "tabelog_rating": 3.58,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "Walden Woods Kyoto",
+    "tabelog_rating": 3.58,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "通圓 宇治本店",
+    "tabelog_rating": 3.58,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "リベルテ・パティスリー・ブーランジェリー 京都店",
+    "tabelog_rating": 3.58,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "カイカドウ カフェ",
+    "tabelog_rating": 3.58,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "SCALAE",
+    "tabelog_rating": 3.58,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "下鴨茶寮 本店",
+    "tabelog_rating": 3.58,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "祇園肉亭 新",
+    "tabelog_rating": 3.58,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "アンティカ ピッツェリア ラジネッロ",
+    "tabelog_rating": 3.58,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "トレイントレイン",
+    "tabelog_rating": 3.58,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "茶寮哲心",
+    "tabelog_rating": 3.58,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "丹",
+    "tabelog_rating": 3.58,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "スパイスカレー キテレツ",
+    "tabelog_rating": 3.58,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "京洛焼肉やぶ",
+    "tabelog_rating": 3.58,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "カフェ レックコート",
+    "tabelog_rating": 3.58,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "仙人掌",
+    "tabelog_rating": 3.58,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "祇園鮨 琢",
+    "tabelog_rating": 3.58,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "田むら",
+    "tabelog_rating": 3.58,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "嵐山 大善",
+    "tabelog_rating": 3.58,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "中国饗膳 粋廉",
+    "tabelog_rating": 3.58,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "祇園 大翔苑",
+    "tabelog_rating": 3.58,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "フィオリスカ",
+    "tabelog_rating": 3.58,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "祇園ごずこん",
+    "tabelog_rating": 3.58,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "喜幸",
+    "tabelog_rating": 3.58,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "京韓堂 アジョシ祇園本店",
+    "tabelog_rating": 3.58,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "純心庵",
+    "tabelog_rating": 3.58,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ボッカ・デル・ヴィーノ",
+    "tabelog_rating": 3.58,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "呑喜屋むね",
+    "tabelog_rating": 3.58,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "若松家酒店",
+    "tabelog_rating": 3.58,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ristorante DONO",
+    "tabelog_rating": 3.58,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "高松",
+    "tabelog_rating": 3.58,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "さか本",
+    "tabelog_rating": 3.58,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "もつ鍋 利光",
+    "tabelog_rating": 3.58,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "だいしめ",
+    "tabelog_rating": 3.58,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "L'Astre",
+    "tabelog_rating": 3.58,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "グリル 小宝",
+    "tabelog_rating": 3.57,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "新大宮 中華のサカイ 本店",
+    "tabelog_rating": 3.57,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "広東料理 鳳泉",
+    "tabelog_rating": 3.57,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "麺匠 一粒万倍 河原町店",
+    "tabelog_rating": 3.57,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "漬け野菜 イソイズム",
+    "tabelog_rating": 3.57,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "京都千丸 しゃかりき むらさき",
+    "tabelog_rating": 3.57,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "京都千丸 しゃかりき 本店",
+    "tabelog_rating": 3.57,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "創作中華 一之船入",
+    "tabelog_rating": 3.57,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "cafe marble  仏光寺店",
+    "tabelog_rating": 3.57,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ラーメン専門店 大輝",
+    "tabelog_rating": 3.57,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "家傳京飴 祇園小石 祇園本店",
+    "tabelog_rating": 3.57,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "here",
+    "tabelog_rating": 3.57,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "炭焼うな富士 大丸京都別邸",
+    "tabelog_rating": 3.57,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "Kacto",
+    "tabelog_rating": 3.57,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "RAU",
+    "tabelog_rating": 3.57,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "麺逢 KATAJIKENAI",
+    "tabelog_rating": 3.57,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "祇園迦陵",
+    "tabelog_rating": 3.57,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ミルク工房そら",
+    "tabelog_rating": 3.57,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "シズヤパン 京都駅店",
+    "tabelog_rating": 3.57,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ヌフ クレープリー",
+    "tabelog_rating": 3.57,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ニコット＆マム 烏丸御池店",
+    "tabelog_rating": 3.57,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "おでん専門店 べんがらや",
+    "tabelog_rating": 3.57,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ホーフベッカライ エーデッガー・タックス 京都店",
+    "tabelog_rating": 3.57,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "京料理 木乃婦",
+    "tabelog_rating": 3.57,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "麺屋 坂本",
+    "tabelog_rating": 3.57,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ヤオイソ 四条大宮店",
+    "tabelog_rating": 3.57,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "串たなか",
+    "tabelog_rating": 3.57,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "五",
+    "tabelog_rating": 3.57,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ATELIER PAGES KYOTO",
+    "tabelog_rating": 3.57,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "Slō",
+    "tabelog_rating": 3.57,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ナカムラ ジェネラル ストア",
+    "tabelog_rating": 3.57,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "京都祇園うなぎ四代目菊川",
+    "tabelog_rating": 3.57,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "プチジャポネ",
+    "tabelog_rating": 3.57,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "カーヴ ド ケイ",
+    "tabelog_rating": 3.57,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "出町ふたば JR京都伊勢丹",
+    "tabelog_rating": 3.57,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "中国料理 桃李",
+    "tabelog_rating": 3.57,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "酒処 四方",
+    "tabelog_rating": 3.57,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "篩月",
+    "tabelog_rating": 3.57,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "セイボリー",
+    "tabelog_rating": 3.57,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "京都 いとおかし",
+    "tabelog_rating": 3.57,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "うらやま京色",
+    "tabelog_rating": 3.57,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "日本料理 京都 華暦",
+    "tabelog_rating": 3.57,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "The Churrasco 京都河原町",
+    "tabelog_rating": 3.57,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ラマルク",
+    "tabelog_rating": 3.57,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "とりなご久兵衛",
+    "tabelog_rating": 3.57,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "肉家かぐら",
+    "tabelog_rating": 3.57,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "宮川町　水簾",
+    "tabelog_rating": 3.57,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "建仁寺 祇園 丸山",
+    "tabelog_rating": 3.57,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "点邑",
+    "tabelog_rating": 3.57,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "まとの",
+    "tabelog_rating": 3.57,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "春夏秋冬ざこや",
+    "tabelog_rating": 3.57,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "串揚げ専門店 コテツ",
+    "tabelog_rating": 3.57,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "400℃ PIZZA KYOTO",
+    "tabelog_rating": 3.57,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "あおい",
+    "tabelog_rating": 3.57,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "est pizzeria e trattoria GION",
+    "tabelog_rating": 3.57,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "また吉",
+    "tabelog_rating": 3.57,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ビリキナータ",
+    "tabelog_rating": 3.57,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "アンペイジ",
+    "tabelog_rating": 3.57,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "味野里香",
+    "tabelog_rating": 3.57,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "肉人",
+    "tabelog_rating": 3.57,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "らく山",
+    "tabelog_rating": 3.57,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "弥さしさ 大島",
+    "tabelog_rating": 3.57,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "祇園 そのう",
+    "tabelog_rating": 3.57,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "押小路 岡田",
+    "tabelog_rating": 3.57,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ル・プチメック 御池店",
+    "tabelog_rating": 3.56,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "中村商店 京都拉麺小路店",
+    "tabelog_rating": 3.56,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "嵯峨野湯",
+    "tabelog_rating": 3.56,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "おめん 銀閣寺本店",
+    "tabelog_rating": 3.56,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "びし屋",
+    "tabelog_rating": 3.56,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "アラビカ 京都 東山",
+    "tabelog_rating": 3.56,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "サー・トーマス・リプトン ポルタ店",
+    "tabelog_rating": 3.56,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ラーメン 天",
+    "tabelog_rating": 3.56,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "伏水酒蔵小路",
+    "tabelog_rating": 3.56,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ラーメン 親爺",
+    "tabelog_rating": 3.56,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "伊藤軒",
+    "tabelog_rating": 3.56,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "辨慶うどん 西京極本店",
+    "tabelog_rating": 3.56,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "らー麺創房 ぱこ",
+    "tabelog_rating": 3.56,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "セアブラノ神 slurp",
+    "tabelog_rating": 3.56,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "野菜酒場あしおと",
+    "tabelog_rating": 3.56,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "五建 ういろ 本店",
+    "tabelog_rating": 3.56,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "RAU",
+    "tabelog_rating": 3.56,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "手打ちうどん やまびこ 本店",
+    "tabelog_rating": 3.56,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ヤマモト",
+    "tabelog_rating": 3.56,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "京かき氷 つみき",
+    "tabelog_rating": 3.56,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "BENOIT Kyoto Alain Ducasse",
+    "tabelog_rating": 3.56,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "京 うな和 本店",
+    "tabelog_rating": 3.56,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "CHERIE MAISON DU BISCUIT",
+    "tabelog_rating": 3.56,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "祇園 鹿六",
+    "tabelog_rating": 3.56,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "Rauk 本店",
+    "tabelog_rating": 3.56,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "パパジョンズ 今出川本店",
+    "tabelog_rating": 3.56,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ぽんしゅや三徳六味 五条高倉店",
+    "tabelog_rating": 3.56,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "たん熊北店 本店",
+    "tabelog_rating": 3.56,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "カフェ アリエッティ",
+    "tabelog_rating": 3.56,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "白",
+    "tabelog_rating": 3.56,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ぱんのちはれ",
+    "tabelog_rating": 3.56,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "センティード",
+    "tabelog_rating": 3.56,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "パン・オ・セーグル",
+    "tabelog_rating": 3.56,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "バル agiyao",
+    "tabelog_rating": 3.56,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "平安殿 本店",
+    "tabelog_rating": 3.56,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "イスタンブール・サライ",
+    "tabelog_rating": 3.56,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "能登椽 稲房安兼",
+    "tabelog_rating": 3.56,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ACTUAL KYOTO",
+    "tabelog_rating": 3.56,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "キチ・キチ",
+    "tabelog_rating": 3.56,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "乍旨司",
+    "tabelog_rating": 3.56,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "コム トゥジュール",
+    "tabelog_rating": 3.56,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "まるに抱き柏",
+    "tabelog_rating": 3.56,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "あごつゆしゃぶしゃぶ 山福",
+    "tabelog_rating": 3.56,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "麺屋 希楽夢",
+    "tabelog_rating": 3.56,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "逸品さかい",
+    "tabelog_rating": 3.56,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "肉の隠れ家 おあがり 嵐山本店",
+    "tabelog_rating": 3.56,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "カ･デル ヴィアーレ",
+    "tabelog_rating": 3.56,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "彩席",
+    "tabelog_rating": 3.56,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "Restaurant Grand Cafe Fauchon",
+    "tabelog_rating": 3.56,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "食 京都小川生薬 RESTAURANT",
+    "tabelog_rating": 3.56,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "uRashiMa",
+    "tabelog_rating": 3.56,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "魚料理 あぎやお",
+    "tabelog_rating": 3.56,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "hikari-yurari",
+    "tabelog_rating": 3.56,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "木屋町サンボア",
+    "tabelog_rating": 3.56,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "おともトごはん おかもト食堂",
+    "tabelog_rating": 3.56,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "こま井亭",
+    "tabelog_rating": 3.56,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ツネオ",
+    "tabelog_rating": 3.56,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "京懐石 美濃吉 竹茂楼 ホテルグランヴィア京都店",
+    "tabelog_rating": 3.56,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "割烹 いいもり",
+    "tabelog_rating": 3.56,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "Etto",
+    "tabelog_rating": 3.56,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "鉄板焼　葵",
+    "tabelog_rating": 3.56,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ヒレ焼肉 京都園",
+    "tabelog_rating": 3.56,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "鮨と酒 ことほぎ",
+    "tabelog_rating": 3.56,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "鶏処 藤",
+    "tabelog_rating": 3.56,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "bistro Chic",
+    "tabelog_rating": 3.56,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "鶏菜 ヨコドリ",
+    "tabelog_rating": 3.56,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "bistro bebe",
+    "tabelog_rating": 3.56,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ろくそう",
+    "tabelog_rating": 3.56,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "食堂かわむら",
+    "tabelog_rating": 3.56,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "Abbesses",
+    "tabelog_rating": 3.56,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "鮨 よし田",
+    "tabelog_rating": 3.56,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "The sunset beach",
+    "tabelog_rating": 3.56,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "御所南 かまた",
+    "tabelog_rating": 3.56,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "北山 渋谷",
+    "tabelog_rating": 3.56,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "鮨おおが東山",
+    "tabelog_rating": 3.56,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "中満",
+    "tabelog_rating": 3.56,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "わか杦",
+    "tabelog_rating": 3.56,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "食ばぁー 楽味",
+    "tabelog_rating": 3.56,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "中村藤吉本店 宇治本店",
+    "tabelog_rating": 3.55,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "茶寮都路里 祇園本店",
+    "tabelog_rating": 3.55,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ル・プチメック 今出川店",
+    "tabelog_rating": 3.55,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "イクスカフェ 京都嵐山本店",
+    "tabelog_rating": 3.55,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "大豊ラーメン 木屋町店",
+    "tabelog_rating": 3.55,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "華祥",
+    "tabelog_rating": 3.55,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "濃厚京鶏白湯らーめん めんや 美鶴",
+    "tabelog_rating": 3.55,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "茶房 半兵衛",
+    "tabelog_rating": 3.55,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "さらさ西陣",
+    "tabelog_rating": 3.55,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "担担 四条本店",
+    "tabelog_rating": 3.55,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "アジェ 木屋町団栗店",
+    "tabelog_rating": 3.55,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ラーメンムギュ Vol.2 烏丸蛸薬師店",
+    "tabelog_rating": 3.55,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "かね正",
+    "tabelog_rating": 3.55,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "Okaffe kyoto",
+    "tabelog_rating": 3.55,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ロンドンヤ",
+    "tabelog_rating": 3.55,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "甘党茶屋 梅園 三条寺町店",
+    "tabelog_rating": 3.55,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "嵐山さくら餅 稲",
+    "tabelog_rating": 3.55,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "お茶と酒 たすき 新風館",
+    "tabelog_rating": 3.55,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "アマゾン",
+    "tabelog_rating": 3.55,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ENFUSE",
+    "tabelog_rating": 3.55,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "かもがわカフェ",
+    "tabelog_rating": 3.55,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "広東御料理　竹香",
+    "tabelog_rating": 3.55,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "SCHOOL BUS COFFEE BAKERS",
+    "tabelog_rating": 3.55,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "サケホール 益や",
+    "tabelog_rating": 3.55,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "菜館Wong",
+    "tabelog_rating": 3.55,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "洋菓子マウンテン",
+    "tabelog_rating": 3.55,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "鍵善良房 高台寺店",
+    "tabelog_rating": 3.55,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "kurs",
+    "tabelog_rating": 3.55,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ベーカリー ウキ",
+    "tabelog_rating": 3.55,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "パンスケープ 三条本店",
+    "tabelog_rating": 3.55,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "2/7 kitchen BAKERY",
+    "tabelog_rating": 3.55,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "焼肉牛匠 新",
+    "tabelog_rating": 3.55,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "エール新町",
+    "tabelog_rating": 3.55,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "かつ善",
+    "tabelog_rating": 3.55,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ディレクトコーヒー",
+    "tabelog_rating": 3.55,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ハシヤとナカセ",
+    "tabelog_rating": 3.55,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "閑臥庵",
+    "tabelog_rating": 3.55,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ビュー＆ダイニング コトシエール",
+    "tabelog_rating": 3.55,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "リストランテ ストラーダ",
+    "tabelog_rating": 3.55,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "カーサビアンカ",
+    "tabelog_rating": 3.55,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "Dontsuki",
+    "tabelog_rating": 3.55,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "京都屋台 せせり",
+    "tabelog_rating": 3.55,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "MIZO",
+    "tabelog_rating": 3.55,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "牛おおた",
+    "tabelog_rating": 3.55,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "料理屋 しん谷",
+    "tabelog_rating": 3.55,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "燔",
+    "tabelog_rating": 3.55,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "辻政",
+    "tabelog_rating": 3.55,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "旬菜 咲や",
+    "tabelog_rating": 3.55,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "お料理 MIYAMA",
+    "tabelog_rating": 3.55,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "洋食とワイン Ao",
+    "tabelog_rating": 3.55,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "Raiz",
+    "tabelog_rating": 3.55,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ステーキ 二教",
+    "tabelog_rating": 3.55,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "西入る",
+    "tabelog_rating": 3.55,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "イノダコーヒ 本店",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "伊藤久右衛門 宇治本店",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "前田珈琲 室町本店",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "京の米料亭 八代目儀兵衛",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "大黒ラーメン 本店",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "麺匠たか松 京都駅ビル拉麺小路店",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "麺匠 たか松 四条店",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "老香港酒家京都",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ラー麺 陽はまた昇る 伏見稲荷駅前本店",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ラーメン銀閣",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "つるかめ 本店",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "さらさ花遊小路",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "瓢斗 京都駅前本店",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "京の焼肉処 弘 千本三条本店",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "セアブラノ神 伏見剛力",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "とり松",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "さか井",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ラーメン たぬき屋",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "茂庵",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "漫天兄弟",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ラーメン 霽レ空",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "手打うどん けんどん屋",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "お数家いしかわ",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "240",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "季の音",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "Ristorante 美郷",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "三国志",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ラーメン ゆう",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "INE CAFE",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "焼肉ダイニング甲",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "挽肉と米 京都",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "麺家チャクリキ",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "中華そば専門店 ふくなが",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "Café Kitsuné ShinPuhKan Kyoto",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "カラクサカレー",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "北山紅茶館",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "老舗・名店弁当コーナー ジェイアール京都伊勢丹店",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ナチュール・シロモト 欽明台店",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "御菓子司 東寺餅",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "藤菜美 京都伊勢丹店",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ビストロMER",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "京ラーメン壬生さだかず",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "出町ろろろ",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "静香",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "グッドマンロースター KYOTO",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "立呑トリズキ",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ムガール",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ともみジェラーto",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ポワンプールポワン 府庁前店",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ケーキ&クッキー リンデンバウム",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "五燠堂",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "うなぎ いっせい",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "エキュバランス",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "fiveran 京都高島屋店",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "中国料理 翆陽",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ザ・ブレッド",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "アランチーノ KYOTO",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "おはぎ巴屋",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "工房レストラン wakuden モーリ",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ポールボキューズ  大丸京都店",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "eight",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "いづ源",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "奇天屋",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "京料理 立神",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "はっすんば",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "京都 喜Shin",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "アンド ブレッド キタヤマ",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "サンバディ",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "佳辰",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "酒呑にし川 柳小路店",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "バイタルサイン",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "焼肉 牛ノ家",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "BISTRO NAMI",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "オルテンシア",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "祇をん 段ばた",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "CLIMA",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "肴と焼鳥と割烹と ととと",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "京都サムゲタン とっとり",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "祇園なか原",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ほへと",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "this is ormary store",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "鷹庵",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "木陰",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "299",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "食工房 ひろさき",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "辻布紗",
+    "tabelog_rating": 3.54,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "茶寮都路里 京都伊勢丹店",
+    "tabelog_rating": 3.53,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ぎょうざ 歩兵 祇園本店",
+    "tabelog_rating": 3.53,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "膳處漢ぽっちり",
+    "tabelog_rating": 3.53,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "サラダの店サンチョ 河原町本店",
+    "tabelog_rating": 3.53,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "京都モダンテラス",
+    "tabelog_rating": 3.53,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "わらじや",
+    "tabelog_rating": 3.53,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "旬菜 いまり",
+    "tabelog_rating": 3.53,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "タンポポ",
+    "tabelog_rating": 3.53,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "珍遊 一乗寺本店",
+    "tabelog_rating": 3.53,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "茶寮 フクチャ",
+    "tabelog_rating": 3.53,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ヒグチ亭",
+    "tabelog_rating": 3.53,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "四方食店",
+    "tabelog_rating": 3.53,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ぽんしゅや 三徳六味 四条烏丸店",
+    "tabelog_rating": 3.53,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "御料理 めなみ",
+    "tabelog_rating": 3.53,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "宗",
+    "tabelog_rating": 3.53,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "サー・トーマス・リプトン 三条本店",
+    "tabelog_rating": 3.53,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "京ラーメン さだかず",
+    "tabelog_rating": 3.53,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ラーメン荘 地球規模で考えろ ソラ",
+    "tabelog_rating": 3.53,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "cafe 33 ハイアット リージェンシー 京都",
+    "tabelog_rating": 3.53,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "スタンプタウン コーヒー ロースターズ",
+    "tabelog_rating": 3.53,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "酒亭ばんから",
+    "tabelog_rating": 3.53,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "石臼挽き手打蕎麦 むら木",
+    "tabelog_rating": 3.53,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "京都生ショコラ オーガニックティーハウス",
+    "tabelog_rating": 3.53,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "喫茶ガボール",
+    "tabelog_rating": 3.53,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "無碍山房 京都髙島屋店",
+    "tabelog_rating": 3.53,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "酒肴屋 じじばば",
+    "tabelog_rating": 3.53,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "京料理 貴与次郎",
+    "tabelog_rating": 3.53,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ベジョータコンチャ 富小路店",
+    "tabelog_rating": 3.53,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "クレーム デ ラ クレーム 京都本店",
+    "tabelog_rating": 3.53,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "MAISON TANUKI",
+    "tabelog_rating": 3.53,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "いづう 京都大丸店",
+    "tabelog_rating": 3.53,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "白碗竹快樓 祇園店",
+    "tabelog_rating": 3.53,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "本家 第一旭 久津川店",
+    "tabelog_rating": 3.53,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ウイークエンダーズコーヒー 富小路",
+    "tabelog_rating": 3.53,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "月ヶ瀬 堺町店",
+    "tabelog_rating": 3.53,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "Anchor Kyoto",
+    "tabelog_rating": 3.53,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ルラション",
+    "tabelog_rating": 3.53,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "Bar MICHIya",
+    "tabelog_rating": 3.53,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "京やきにく 弘 先斗町別邸",
+    "tabelog_rating": 3.53,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "アラビカ京都 藤井大丸",
+    "tabelog_rating": 3.53,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "花雷",
+    "tabelog_rating": 3.53,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ラ・クラシック",
+    "tabelog_rating": 3.53,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "キャトルセゾン",
+    "tabelog_rating": 3.53,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "トゥレ・ドゥー",
+    "tabelog_rating": 3.53,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ヴィット・デ・ウィット",
+    "tabelog_rating": 3.53,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "プレマルシェ・ジェラテリア",
+    "tabelog_rating": 3.53,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "高瀬川 槇",
+    "tabelog_rating": 3.53,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "おせきもち",
+    "tabelog_rating": 3.53,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "そうげんカフェ",
+    "tabelog_rating": 3.53,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "京・菓る茶cafe",
+    "tabelog_rating": 3.53,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "月村",
+    "tabelog_rating": 3.53,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "食堂デイズ",
+    "tabelog_rating": 3.53,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "アグレアーブル",
+    "tabelog_rating": 3.53,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ブーランジェリー モリモリ",
+    "tabelog_rating": 3.53,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "お菓子工房 ファヴリット",
+    "tabelog_rating": 3.53,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "喜人来人",
+    "tabelog_rating": 3.53,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "もうやん",
+    "tabelog_rating": 3.53,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "アシェットデセール 未完",
+    "tabelog_rating": 3.53,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "Agri",
+    "tabelog_rating": 3.53,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "えいたろう屋",
+    "tabelog_rating": 3.53,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "しぇりークラブ 京都･石塀小路",
+    "tabelog_rating": 3.53,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "立ち飲み やみー ふたつめ",
+    "tabelog_rating": 3.53,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "そば切り こごろ",
+    "tabelog_rating": 3.53,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "亀屋良長 JR京都伊勢丹B1直売店",
+    "tabelog_rating": 3.53,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "アングレディアン 京都",
+    "tabelog_rating": 3.53,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "芝蘭",
+    "tabelog_rating": 3.53,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "嵐山熊彦 たん熊北店",
+    "tabelog_rating": 3.53,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "肉料理 川もり",
+    "tabelog_rating": 3.53,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "和菓子店 青洋",
+    "tabelog_rating": 3.53,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "宮川町 さか",
+    "tabelog_rating": 3.53,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "寿し処 今",
+    "tabelog_rating": 3.53,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ブランカ",
+    "tabelog_rating": 3.53,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "百香居",
+    "tabelog_rating": 3.53,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "Sekki(シックスセンシズ 京都)",
+    "tabelog_rating": 3.53,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "西角",
+    "tabelog_rating": 3.53,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "くずし懐石 縁",
+    "tabelog_rating": 3.53,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "京料理 藤本",
+    "tabelog_rating": 3.53,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "天下一品 総本店",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "南禅寺 順正",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "西陣 鳥岩楼",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "グリル デミ",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "キャピタル東洋亭 本店",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "mumokuteki cafe KYOTO",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "老松 嵐山店",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "手打ちそば 花もも",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "元祖熟成細麺　香来 壬生本店",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "とんかつ一番",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "京一本店",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "セアブラノ神 錦",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "冨美家",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "京 嵯峨野 竹路庵 本店",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "讃式",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "棲家 富小路店",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "サンタ・マリア・ノヴェッラ・ティサネリーア 京都店",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "純喫茶 フルール",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "茶寮 八翠",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "うなぎ四代目菊川 京都駅ポルタ店",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "元祖らーめん大栄",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ゲベッケン本店",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "やまもと喫茶",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "とん吉",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "CHAVATY kyoto arashiyama",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "タイカレーラーメン シャム",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "雨林舎",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "個室居酒屋 はんなり邸 京都駅前店",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "御多福珈琲",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "パティスリー菓欒",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "来隣",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "atelier京ばあむ",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "手打うどん春日井",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ディアンドデパートメント 京都店",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "水月亭",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "Kurasu",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "京料理 かじ",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "肉もん 河原町竹屋町店",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "奥貴船 兵衛",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "叙々苑 游玄亭 京都",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "燻",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "京のみやげ アスティ京都",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "養老軒",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "FACTORY KAFE 工船",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "洛空",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ブリアン 平野店",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "二条小屋",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "京やきにく 弘 八坂邸",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "マリーフランス 今出川店",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "フリアンディーズ 烏丸店",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "フレンチダイニング トップ オブ キョウト",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ジャパニーズアイス 櫻花",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "三條若狭屋",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "廣東料理 翠雲苑",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "魚屋に毛の生えたようなお店 京都つりや",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "パヴェナチュール",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "プラ・ビダ",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ブイヤベースのお店 プチポワソン",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "京都 れとろ洋食　LOCAVO",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "クー・オ・ミディ",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "蕎麦人",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "かもDONUT",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "喫茶 六花",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "京都つゆしゃぶCHIRIRI 四条烏丸 別邸",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "錦 活鮨",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "トム・ソーヤー",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "マンボ飯店",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "九時五時",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ルボンディー",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "鮨 かわの",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "碓屋",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "泉仙 大慈院店",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "おいと",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "洋食の店 ITADAKI 円町店",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "中国料理 菜格",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "やき肉玄趣 江洲",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "亀屋則克",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "お菓子 つくる",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "辻留 京都伊勢丹店",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "宮本屋",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "mitoho kyoto bettei",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "昭恋館 よ志のや",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "月夜にコメと酒",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "Jean-Georges at The Shinmonzen",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "京野菜 桜肉 鴨肉 子鴨",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "米処いなもと",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "祇園 大季",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "炭火焼鳥issiki",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ベニヤンマ",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "要庵 西富家",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "deico",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "下鴨 大登龍",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "鳥さき而光",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "GOICHI PANINO",
+    "tabelog_rating": 3.52,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "蕎麦の実 よしむら",
+    "tabelog_rating": 3.51,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "マールブランシュ 京都北山本店",
+    "tabelog_rating": 3.51,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "東華菜館 本店",
+    "tabelog_rating": 3.51,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "とくら 桂 本店",
+    "tabelog_rating": 3.51,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "おめんNIPPON 四条先斗町店",
+    "tabelog_rating": 3.51,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "満寿形屋",
+    "tabelog_rating": 3.51,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "麺屋 優光 河原町",
+    "tabelog_rating": 3.51,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ERUTAN RESTAURANT BAR",
+    "tabelog_rating": 3.51,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "古都芋本舗",
+    "tabelog_rating": 3.51,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "麺匠 たか松 KAWARAMACHI",
+    "tabelog_rating": 3.51,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "東龍 北白川本店",
+    "tabelog_rating": 3.51,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "ELOVE",
+    "tabelog_rating": 3.51,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "初代 麺家 あくた川",
+    "tabelog_rating": 3.51,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "サー・トーマス・リプトン 四条店",
+    "tabelog_rating": 3.51,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "朧八瑞雲堂",
+    "tabelog_rating": 3.51,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "あんびしゃす花",
+    "tabelog_rating": 3.51,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "まめものとたい焼き 嵐山本店",
+    "tabelog_rating": 3.51,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "CAFE Dot.S",
+    "tabelog_rating": 3.51,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "SAGAN",
+    "tabelog_rating": 3.51,
+    "area": "Unknown",
+    "cuisine": "Japanese"
+  }
+]

@@ -4,7 +4,7 @@ Build static HTML map with embedded restaurant data
 """
 import json
 
-# Load restaurant data
+# Load restaurant data (with categories)
 with open('kyoto_final.json', 'r', encoding='utf-8') as f:
     restaurants = json.load(f)
 
@@ -50,7 +50,11 @@ category_counts = {}
 
 for r in restaurants:
     if 'lat' in r and 'lng' in r:
-        categories = categorize_cuisine(r.get('cuisine', ''))
+        # Use categories from data if available, otherwise categorize from cuisine
+        if r.get('categories'):
+            categories = r['categories']
+        else:
+            categories = categorize_cuisine(r.get('cuisine', ''))
         
         # Count categories
         for cat in categories:
@@ -513,6 +517,100 @@ html = f'''<!DOCTYPE html>
                 <input type="checkbox" id="open-now-filter" style="cursor: pointer;">
                 <span style="font-weight: 600;">🕒 Open Now Only</span>
             </label>
+        </div>
+        
+        <div class="cuisine-filter">
+            <label style="font-weight: 600; margin-bottom: 8px;">Cuisine Type</label>
+            <div class="cuisine-options">
+                <div class="cuisine-option">
+                    <input type="checkbox" id="cuisine-sushi" value="Sushi">
+                    <label for="cuisine-sushi">🍣 Sushi <span class="cuisine-count">({category_counts.get('Sushi', 0)})</span></label>
+                </div>
+                <div class="cuisine-option">
+                    <input type="checkbox" id="cuisine-ramen" value="Ramen">
+                    <label for="cuisine-ramen">🍜 Ramen <span class="cuisine-count">({category_counts.get('Ramen', 0)})</span></label>
+                </div>
+                <div class="cuisine-option">
+                    <input type="checkbox" id="cuisine-soba" value="Soba">
+                    <label for="cuisine-soba">🥢 Soba <span class="cuisine-count">({category_counts.get('Soba', 0)})</span></label>
+                </div>
+                <div class="cuisine-option">
+                    <input type="checkbox" id="cuisine-udon" value="Udon">
+                    <label for="cuisine-udon">🍲 Udon <span class="cuisine-count">({category_counts.get('Udon', 0)})</span></label>
+                </div>
+                <div class="cuisine-option">
+                    <input type="checkbox" id="cuisine-tempura" value="Tempura">
+                    <label for="cuisine-tempura">🍤 Tempura <span class="cuisine-count">({category_counts.get('Tempura', 0)})</span></label>
+                </div>
+                <div class="cuisine-option">
+                    <input type="checkbox" id="cuisine-unagi" value="Unagi">
+                    <label for="cuisine-unagi">🐟 Unagi <span class="cuisine-count">({category_counts.get('Unagi', 0)})</span></label>
+                </div>
+                <div class="cuisine-option">
+                    <input type="checkbox" id="cuisine-yakitori" value="Yakitori">
+                    <label for="cuisine-yakitori">🍗 Yakitori <span class="cuisine-count">({category_counts.get('Yakitori', 0)})</span></label>
+                </div>
+                <div class="cuisine-option">
+                    <input type="checkbox" id="cuisine-yakiniku" value="Yakiniku">
+                    <label for="cuisine-yakiniku">🔥 Yakiniku <span class="cuisine-count">({category_counts.get('Yakiniku', 0)})</span></label>
+                </div>
+                <div class="cuisine-option">
+                    <input type="checkbox" id="cuisine-tonkatsu" value="Tonkatsu">
+                    <label for="cuisine-tonkatsu">🐷 Tonkatsu <span class="cuisine-count">({category_counts.get('Tonkatsu', 0)})</span></label>
+                </div>
+                <div class="cuisine-option">
+                    <input type="checkbox" id="cuisine-kaiseki" value="Kaiseki">
+                    <label for="cuisine-kaiseki">🍱 Kaiseki <span class="cuisine-count">({category_counts.get('Kaiseki', 0)})</span></label>
+                </div>
+                <div class="cuisine-option">
+                    <input type="checkbox" id="cuisine-steak" value="Steak">
+                    <label for="cuisine-steak">🥩 Steak <span class="cuisine-count">({category_counts.get('Steak', 0)})</span></label>
+                </div>
+                <div class="cuisine-option">
+                    <input type="checkbox" id="cuisine-cafe" value="Cafe">
+                    <label for="cuisine-cafe">☕ Cafe <span class="cuisine-count">({category_counts.get('Cafe', 0)})</span></label>
+                </div>
+                <div class="cuisine-option">
+                    <input type="checkbox" id="cuisine-teahouse" value="Tea House">
+                    <label for="cuisine-teahouse">🍵 Tea House <span class="cuisine-count">({category_counts.get('Tea House', 0)})</span></label>
+                </div>
+                <div class="cuisine-option">
+                    <input type="checkbox" id="cuisine-bakery" value="Bakery">
+                    <label for="cuisine-bakery">🥐 Bakery <span class="cuisine-count">({category_counts.get('Bakery', 0)})</span></label>
+                </div>
+                <div class="cuisine-option">
+                    <input type="checkbox" id="cuisine-sweets" value="Sweets">
+                    <label for="cuisine-sweets">🍰 Sweets <span class="cuisine-count">({category_counts.get('Sweets', 0)})</span></label>
+                </div>
+                <div class="cuisine-option">
+                    <input type="checkbox" id="cuisine-izakaya" value="Izakaya">
+                    <label for="cuisine-izakaya">🍶 Izakaya <span class="cuisine-count">({category_counts.get('Izakaya', 0)})</span></label>
+                </div>
+                <div class="cuisine-option">
+                    <input type="checkbox" id="cuisine-curry" value="Curry">
+                    <label for="cuisine-curry">🍛 Curry <span class="cuisine-count">({category_counts.get('Curry', 0)})</span></label>
+                </div>
+                <div class="cuisine-option">
+                    <input type="checkbox" id="cuisine-nabe" value="Nabe">
+                    <label for="cuisine-nabe">🍲 Nabe <span class="cuisine-count">({category_counts.get('Nabe', 0)})</span></label>
+                </div>
+                <div class="cuisine-option">
+                    <input type="checkbox" id="cuisine-chinese" value="Chinese">
+                    <label for="cuisine-chinese">🥡 Chinese <span class="cuisine-count">({category_counts.get('Chinese', 0)})</span></label>
+                </div>
+                <div class="cuisine-option">
+                    <input type="checkbox" id="cuisine-french" value="French">
+                    <label for="cuisine-french">🥖 French <span class="cuisine-count">({category_counts.get('French', 0)})</span></label>
+                </div>
+                <div class="cuisine-option">
+                    <input type="checkbox" id="cuisine-italian" value="Italian">
+                    <label for="cuisine-italian">🍝 Italian <span class="cuisine-count">({category_counts.get('Italian', 0)})</span></label>
+                </div>
+                <div class="cuisine-option">
+                    <input type="checkbox" id="cuisine-pizza" value="Pizza">
+                    <label for="cuisine-pizza">🍕 Pizza <span class="cuisine-count">({category_counts.get('Pizza', 0)})</span></label>
+                </div>
+            </div>
         </div>
         
         <button id="gps-btn" class="gps-btn">📍 Enable GPS Tracking</button>
