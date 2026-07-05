@@ -81,6 +81,11 @@ scraper/tabelog_list.json
 scraper/tabelog_list_flat.json
 scraper/tabelog_full.json
 scraper/tabelog_full_flat.json
+scraper/tabelog_kyoto_list.json
+scraper/tabelog_kyoto_list_flat.json
+scraper/tabelog_kyoto_full.json
+scraper/tabelog_kyoto_full_flat.json
 scraper/final_restaurants_kyoto.json
 scraper/final_restaurants_kyoto_hotpepper.json
+scraper/final_restaurants_kyoto_hotpepper.json.cache.json
 *.cache.json
