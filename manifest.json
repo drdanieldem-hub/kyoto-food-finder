@@ -1,0 +1,21 @@
+{
+  "name": "Kyoto Food Finder",
+  "short_name": "Kyoto Food",
+  "description": "Top-rated restaurants in Kyoto with map, filters, and live hours.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#be185d",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

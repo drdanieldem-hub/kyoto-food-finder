@@ -1,1 +1,433 @@
-<h1>Kyoto Food Finder — building…</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>🏯 Kyoto Food Finder</title>
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#be185d">
+<link rel="apple-touch-icon" href="icon-192.png">
+<!-- Leaflet CSS -->
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<!-- MarkerCluster CSS -->
+<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css">
+<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css">
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+html, body { height: 100%; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; }
+body { display: flex; flex-direction: column; background: #f8fafc; color: #1e293b; }
+body.dark { background: #0f172a; color: #e2e8f0; }
+#header { background: #be185d; color: #fff; padding: 10px 16px; display: flex; align-items: center; gap: 12px; flex-shrink: 0; box-shadow: 0 2px 8px rgba(0,0,0,.2); z-index: 1000; position: relative; }
+body.dark #header { background: #831843; }
+#header h1 { font-size: 1.2rem; font-weight: 700; flex: 1; white-space: nowrap; }
+#stats-line { font-size: 0.78rem; opacity: .9; white-space: nowrap; }
+#dark-toggle { background: rgba(255,255,255,.2); border: none; color: #fff; border-radius: 8px; padding: 6px 12px; cursor: pointer; font-size: 0.85rem; white-space: nowrap; }
+#dark-toggle:hover { background: rgba(255,255,255,.35); }
+#main { display: flex; flex: 1; overflow: hidden; }
+#sidebar { width: 280px; background: #fff; border-right: 1px solid #e2e8f0; overflow-y: auto; flex-shrink: 0; transition: transform .25s; z-index: 500; }
+body.dark #sidebar { background: #1e293b; border-color: #334155; }
+#map { flex: 1; }
+#sidebar-inner { padding: 14px; }
+.filter-section { margin-bottom: 14px; }
+.filter-section h3 { font-size: 0.75rem; text-transform: uppercase; letter-spacing: .08em; color: #64748b; margin-bottom: 6px; }
+body.dark .filter-section h3 { color: #94a3b8; }
+select, input[type=text] { width: 100%; padding: 7px 10px; border: 1px solid #cbd5e1; border-radius: 8px; font-size: 0.85rem; background: #f8fafc; color: #1e293b; }
+body.dark select, body.dark input[type=text] { background: #0f172a; border-color: #475569; color: #e2e8f0; }
+.checkbox-list { display: flex; flex-direction: column; gap: 5px; max-height: 260px; overflow-y: auto; }
+.checkbox-list label { display: flex; align-items: center; gap: 7px; font-size: 0.84rem; cursor: pointer; }
+.checkbox-list input[type=checkbox] { accent-color: #be185d; width: 15px; height: 15px; }
+.cat-count { color: #94a3b8; font-size: 0.75rem; margin-left: auto; }
+#top-picks-label { display: flex; align-items: center; gap: 7px; font-size: 0.88rem; cursor: pointer; }
+#top-picks-label input { accent-color: #be185d; width: 15px; height: 15px; }
+#open-now-label { display: flex; align-items: center; gap: 7px; font-size: 0.88rem; cursor: pointer; }
+#open-now-label input { accent-color: #be185d; width: 15px; height: 15px; }
+#open-now-label.disabled { opacity: .4; cursor: not-allowed; }
+#open-now-label.disabled input { cursor: not-allowed; }
+.japan-time { font-size: 0.74rem; color: #64748b; margin-top: 4px; padding-left: 22px; font-variant-numeric: tabular-nums; }
+body.dark .japan-time { color: #94a3b8; }
+.japan-time.live { color: #be185d; font-weight: 600; }
+body.dark .japan-time.live { color: #f472b6; }
+button.reset-btn { width: 100%; padding: 8px; border: 1px solid #be185d; background: transparent; color: #be185d; border-radius: 8px; cursor: pointer; font-size: 0.85rem; margin-top: 8px; }
+button.reset-btn:hover { background: #be185d; color: #fff; }
+body.dark button.reset-btn { border-color: #f472b6; color: #f472b6; }
+body.dark button.reset-btn:hover { background: #f472b6; color: #0f172a; }
+#sidebar-toggle { display: none; position: fixed; bottom: 70px; left: 12px; z-index: 2000; background: #be185d; color: #fff; border: none; border-radius: 50%; width: 44px; height: 44px; font-size: 1.2rem; cursor: pointer; box-shadow: 0 2px 8px rgba(0,0,0,.3); }
+body.dark #sidebar-toggle { background: #831843; }
+#gps-btn { position: fixed; bottom: 16px; left: 12px; z-index: 2000; background: #3b82f6; color: #fff; border: none; border-radius: 50%; width: 44px; height: 44px; font-size: 1.1rem; cursor: pointer; box-shadow: 0 2px 8px rgba(0,0,0,.3); }
+#gps-btn.active { background: #ef4444; }
+#legend { position: fixed; bottom: 16px; right: 12px; z-index: 2000; background: #fff; border-radius: 10px; padding: 10px 14px; box-shadow: 0 2px 8px rgba(0,0,0,.15); font-size: 0.78rem; }
+body.dark #legend { background: #1e293b; color: #e2e8f0; }
+.legend-item { display: flex; align-items: center; gap: 6px; margin-bottom: 4px; }
+.legend-dot { width: 12px; height: 12px; border-radius: 50%; display: inline-block; }
+.popup-title { font-size: 1rem; font-weight: 700; margin-bottom: 2px; }
+.popup-name-jp { font-size: 0.8rem; color: #64748b; margin-bottom: 8px; }
+.popup-ratings { display: flex; gap: 8px; margin-bottom: 8px; flex-wrap: wrap; }
+.rating-chip { display: inline-flex; align-items: center; gap: 4px; padding: 4px 10px; border-radius: 20px; font-size: 0.82rem; font-weight: 600; text-decoration: none; }
+.rating-chip.tabelog { background: #fef3c7; color: #92400e; }
+.rating-chip.hotpepper { background: #fce7f3; color: #831843; }
+.rating-chip:hover { opacity: .85; }
+.popup-meta { font-size: 0.82rem; line-height: 1.7; }
+.popup-meta span { display: block; }
+.popup-status-row { margin-bottom: 8px; }
+.status-badge { display: inline-flex; align-items: center; gap: 4px; padding: 5px 12px; border-radius: 14px; font-size: 0.85rem; font-weight: 700; box-shadow: 0 1px 3px rgba(0,0,0,.08); }
+.status-badge.open { background: #10b981; color: #fff; }
+.status-badge.closed { background: #6b7280; color: #fff; }
+.status-badge.unknown { background: #f59e0b; color: #fff; }
+.popup-desc { margin-top: 6px; font-size: 0.84rem; color: #475569; line-height: 1.45; }
+body.dark .popup-desc { color: #cbd5e1; }
+@media (max-width: 767px) {
+  #sidebar { position: fixed; top: 0; left: 0; height: 100%; transform: translateX(-100%); box-shadow: 2px 0 12px rgba(0,0,0,.2); }
+  #sidebar.open { transform: translateX(0); }
+  #sidebar-toggle { display: flex; align-items: center; justify-content: center; }
+  #header h1 { font-size: 1rem; }
+  #stats-line { display: none; }
+}
+</style>
+</head>
+<body>
+<div id="header">
+  <h1>🏯 Kyoto Food Finder</h1>
+  <span id="stats-line">3 Restaurants &bull; Tabelog 3.4+</span>
+  <button id="dark-toggle">🌙 Dark</button>
+</div>
+<div id="main">
+  <div id="sidebar">
+    <div id="sidebar-inner">
+      <div class="filter-section">
+        <h3>Tabelog Rating</h3>
+        <select id="tabelog-min">
+          <option value="3.0">3.0+</option>
+          <option value="3.4" selected>3.4+</option>
+          <option value="3.7">3.7+</option>
+          <option value="4.0">4.0+</option>
+        </select>
+      </div>
+      <div class="filter-section">
+        <h3>Min Reviews (Tabelog)</h3>
+        <input id="review-min" type="number" min="0" step="1" value="0" />
+      </div>
+      <div class="filter-section">
+        <h3>Cuisine</h3>
+        <div id="cuisine-checks" class="checkbox-list"></div>
+      </div>
+      <div class="filter-section">
+        <label id="top-picks-label"><input id="top-picks" type="checkbox" /> Top picks only (top 15%)</label>
+      </div>
+      <div class="filter-section">
+        <label id="open-now-label" disabled><input id="open-now" type="checkbox" disabled /> Open now (Japan)</label>
+        <div class="japan-time live" id="open-now-note">Hours not yet loaded — set HOTPEPPER_API_KEY and run the cross-ref to enable.</div>
+      </div>
+      <div class="filter-section">
+        <h3>Search (name / area)</h3>
+        <input id="search" type="text" placeholder="e.g. Gion, Kaiseki, Ramen" />
+      </div>
+      <button class="reset-btn" id="reset-filters">Reset Filters</button>
+    </div>
+  </div>
+  <div id="map"></div>
+</div>
+<button id="sidebar-toggle" title="Toggle filters">⚙</button>
+<button id="gps-btn" title="Toggle GPS">📍</button>
+<div id="legend">
+  <div style="font-weight:600;margin-bottom:5px">Tabelog</div>
+  <div class="legend-item"><span class="legend-dot" style="background:#10b981"></span> 4.0+</div>
+  <div class="legend-item"><span class="legend-dot" style="background:#3b82f6"></span> 3.7–3.99</div>
+  <div class="legend-item"><span class="legend-dot" style="background:#8b5cf6"></span> &lt;3.7</div>
+</div>
+<!-- Leaflet JS -->
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+<script>
+(function() {
+'use strict';
+
+var GEOJSON = {"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[135.7781,35.0036]},"properties":{"name":"鮨 鶴清","name_jp":"鮨 鶴清","tabelog_rating":3.85,"google_rating":0.0,"google_reviews":214,"cuisine":"寿司 / 海鮮","area":"祇園","address":"京都府京都市東山区祇園1-2-3","categories":["Sushi"],"place_id":"","lat":35.0036,"lng":135.7781,"hotpepper_description":"","hotpepper_photo_url":"","hotpepper_url":"","tabelog_review_count":214,"regular_opening_hours":[],"current_open_now":null,"hours_source":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[135.7595,35.0028]},"properties":{"name":"Ramen Fujisan","name_jp":"Ramen Fujisan","tabelog_rating":3.62,"google_rating":0.0,"google_reviews":88,"cuisine":"ラーメン","area":"四条","address":"京都府京都市下京区四条通...","categories":["Ramen"],"place_id":"","lat":35.0028,"lng":135.7595,"hotpepper_description":"","hotpepper_photo_url":"","hotpepper_url":"","tabelog_review_count":88,"regular_opening_hours":[],"current_open_now":null,"hours_source":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[135.7772,35.0039]},"properties":{"name":"Kaiseki Mizuki","name_jp":"Kaiseki Mizuki","tabelog_rating":4.32,"google_rating":0.0,"google_reviews":105,"cuisine":"懐石","area":"祇園","address":"京都府京都市東山区...","categories":["Kaiseki"],"place_id":"","lat":35.0039,"lng":135.7772,"hotpepper_description":"","hotpepper_photo_url":"","hotpepper_url":"","tabelog_review_count":105,"regular_opening_hours":[],"current_open_now":null,"hours_source":""}}]};
+var COUNTS  = {"Kaiseki": 1, "Shojin": 0, "Tofu": 0, "Sushi": 1, "Ramen": 1, "Tempura": 0, "Yakitori": 0, "Yakiniku": 0, "Tonkatsu": 0, "Unagi": 0, "Japanese": 0, "Soba": 0, "Udon": 0, "Curry": 0, "Bakery": 0, "Desserts": 0, "Pizza": 0, "Other": 0};
+var CATS    = ["Kaiseki", "Shojin", "Tofu", "Sushi", "Ramen", "Tempura", "Yakitori", "Yakiniku", "Tonkatsu", "Unagi", "Japanese", "Soba", "Udon", "Curry", "Bakery", "Desserts", "Pizza"];
+var TOTAL   = 3;
+var TOP_THRESHOLD = 4.32;
+var HAS_HOURS = false;
+
+var darkMode = localStorage.getItem('kyotoDarkMode') === 'true';
+function applyDark() {
+  document.body.classList.toggle('dark', darkMode);
+  document.getElementById('dark-toggle').textContent = darkMode ? '☀ Light' : '🌙 Dark';
+  if (window.lightLayer && window.darkLayer && window.map) {
+    if (darkMode) {
+      if (map.hasLayer(lightLayer)) { map.removeLayer(lightLayer); map.addLayer(darkLayer); }
+    } else {
+      if (map.hasLayer(darkLayer)) { map.removeLayer(darkLayer); map.addLayer(lightLayer); }
+    }
+  }
+}
+applyDark();
+document.getElementById('dark-toggle').addEventListener('click', function() {
+  darkMode = !darkMode;
+  localStorage.setItem('kyotoDarkMode', String(darkMode));
+  applyDark();
+});
+
+// ── Map init (Kyoto Station default) ─────────────────────────────────
+var map = L.map('map').setView([35.0116, 135.7681], 13);
+var lightLayer = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+  attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+  maxZoom: 19
+});
+var darkLayer = L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+  attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OSM</a> &copy; <a href="https://carto.com/">CARTO</a>',
+  maxZoom: 19
+});
+window.lightLayer = lightLayer;
+window.darkLayer  = darkLayer;
+window.map = map;
+(darkMode ? darkLayer : lightLayer).addTo(map);
+
+var container = document.getElementById('cuisine-checks');
+CATS.forEach(function(cat) {
+  var lbl = document.createElement('label');
+  var cb  = document.createElement('input');
+  cb.type = 'checkbox';
+  cb.value = cat;
+  cb.dataset.cat = cat;
+  cb.className = 'cat-cb';
+  cb.addEventListener('change', applyFilters);
+  var cnt = document.createElement('span');
+  cnt.className = 'cat-count';
+  cnt.textContent = '(' + (COUNTS[cat] || 0) + ')';
+  lbl.appendChild(cb);
+  lbl.appendChild(document.createTextNode(' ' + cat));
+  lbl.appendChild(cnt);
+  container.appendChild(lbl);
+});
+
+var clusterGroup = L.markerClusterGroup({
+  maxClusterRadius: 50,
+  spiderfyOnMaxZoom: true,
+  showCoverageOnHover: false,
+  zoomToBoundsOnClick: true
+});
+map.addLayer(clusterGroup);
+
+function haversine(lat1, lng1, lat2, lng2) {
+  var R = 6371;
+  var dLat = (lat2 - lat1) * Math.PI / 180;
+  var dLng = (lng2 - lng1) * Math.PI / 180;
+  var a = Math.sin(dLat/2)*Math.sin(dLat/2) +
+          Math.cos(lat1*Math.PI/180)*Math.cos(lat2*Math.PI/180)*
+          Math.sin(dLng/2)*Math.sin(dLng/2);
+  return R * 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
+}
+function walkTime(km) { return ''; }  // disabled — no GPS user-toggle UX
+function markerColor(tabelog) {
+  if (tabelog >= 4.0) return '#10b981';
+  if (tabelog >= 3.7) return '#3b82f6';
+  return '#8b5cf6';
+}
+function escHtml(s) { return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;'); }
+function slotLabel(slots) { return slots.map(function(s){ return s.open + '–' + (s.close || '24h'); }).join(', '); }
+
+// Asia/Tokyo wall-clock helpers (also valid for Kyoto)
+function getTokyoMinutesNow() {
+  var parts = new Intl.DateTimeFormat('en-US', {
+    timeZone: 'Asia/Tokyo', hour12: false,
+    hour: '2-digit', minute: '2-digit', weekday: 'short'
+  }).formatToParts(new Date());
+  var h = 0, m = 0, weekday = 0;
+  for (var i = 0; i < parts.length; i++) {
+    if (parts[i].type === 'hour') h = parseInt(parts[i].value, 10) % 24;
+    if (parts[i].type === 'minute') m = parseInt(parts[i].value, 10);
+    if (parts[i].type === 'weekday') {
+      weekday = ['Sun','Mon','Tue','Wed','Thu','Fri','Sat'].indexOf(parts[i].value);
+    }
+  }
+  return { mins: h * 60 + m, dayIdx: weekday };
+}
+function isOpenAt(p) {
+  if (!HAS_HOURS) return null;
+  var days = p.regular_opening_hours;
+  if (!days || days.length !== 7) return null;
+  var t = getTokyoMinutesNow();
+  var day = days[t.dayIdx];
+  if (!day || day.closed) return false;
+  for (var i = 0; i < day.slots.length; i++) {
+    var s = day.slots[i];
+    var oh = parseInt(s.open.split(':')[0]);
+    var om = parseInt(s.open.split(':')[1]);
+    var openMin = oh * 60 + om;
+    var closeMin;
+    if (!s.close) { closeMin = 24 * 60; }
+    else {
+      var ch = parseInt(s.close.split(':')[0]);
+      var cm = parseInt(s.close.split(':')[1]);
+      closeMin = ch * 60 + cm;
+      if (closeMin <= openMin) closeMin = 24 * 60;
+    }
+    if (t.mins >= openMin && t.mins < closeMin) return true;
+  }
+  return false;
+}
+
+function popupHtml(p) {
+  var nameJp = p.name_jp && p.name_jp !== p.name ? '<div class="popup-name-jp">' + escHtml(p.name_jp) + '</div>' : '';
+  var rating = '<span class="rating-chip tabelog">★ ' + (p.tabelog_rating || 0).toFixed(2);
+  if (p.tabelog_review_count) rating += ' · ' + p.tabelog_review_count + ' reviews';
+  rating += '</span>';
+  var hpLink = p.hotpepper_url ? '<a class="rating-chip hotpepper" href="' + escHtml(p.hotpepper_url) + '" target="_blank" rel="noopener">Hotpepper</a>' : '';
+  var tabLink = p.place_id ? '' : '';  // no Google place link
+  var addrLine = p.address ? '<span>📍 ' + escHtml(p.address) + '</span>' : '';
+  var areaLine = p.area ? '<span>🏘 ' + escHtml(p.area) + (p.cuisine ? ' · ' + escHtml(p.cuisine) : '') + '</span>' : '';
+  var catsLine = p.categories && p.categories.length ? '<span>🍽 ' + p.categories.map(escHtml).join(', ') + '</span>' : '';
+  var photo = p.hotpepper_photo_url ? '<img src="' + escHtml(p.hotpepper_photo_url) + '" style="width:100%;border-radius:8px;margin-bottom:6px" loading="lazy" />' : '';
+  var desc = p.hotpepper_description ? '<div class="popup-desc">' + escHtml(p.hotpepper_description) + '</div>' : '';
+  var statusRow = '';
+  if (HAS_HOURS) {
+    var open = isOpenAt(p);
+    if (open === true) statusRow = '<div class="popup-status-row"><span class="status-badge open">● Open now</span></div>';
+    else if (open === false) statusRow = '<div class="popup-status-row"><span class="status-badge closed">● Closed now</span></div>';
+    else statusRow = '<div class="popup-status-row"><span class="status-badge unknown">Hours unknown</span></div>';
+  }
+  return '<div class="popup-title">' + escHtml(p.name) + '</div>' + nameJp + statusRow +
+    '<div class="popup-ratings">' + rating + hpLink + '</div>' +
+    photo + desc +
+    '<div class="popup-meta">' + addrLine + areaLine + catsLine + '</div>';
+}
+
+function makeMarker(feature, latlng) {
+  var p = feature.properties;
+  var marker = L.circleMarker(latlng, {
+    radius: 6, fillColor: markerColor(p.tabelog_rating || 0),
+    color: '#fff', weight: 1.5, fillOpacity: 0.92
+  });
+  marker.bindPopup(popupHtml(p));
+  marker.options.feature = feature;
+  return marker;
+}
+
+var allMarkers = [];
+GEOJSON.features.forEach(function(f) {
+  var m = makeMarker(f, L.latLng(f.properties.lat, f.properties.lng));
+  allMarkers.push(m);
+});
+
+function refreshMap() {
+  clusterGroup.clearLayers();
+  allMarkers.forEach(function(m) { clusterGroup.addLayer(m); });
+}
+refreshMap();
+
+function pass(p) {
+  if (p.tabelog_rating < parseFloat(document.getElementById('tabelog-min').value)) return false;
+  var minReviews = parseInt(document.getElementById('review-min').value || '0', 10);
+  if (minReviews > 0 && (p.tabelog_review_count || 0) < minReviews) return false;
+  var activeCuisines = Array.prototype.slice.call(document.querySelectorAll('.cat-cb:checked')).map(function(el){return el.value;});
+  if (activeCuisines.length) {
+    var hit = false;
+    for (var i = 0; i < activeCuisines.length; i++) {
+      if (p.categories.indexOf(activeCuisines[i]) !== -1) { hit = true; break; }
+    }
+    if (!hit) return false;
+  }
+  if (document.getElementById('top-picks').checked && p.tabelog_rating < TOP_THRESHOLD) return false;
+  if (HAS_HOURS && document.getElementById('open-now').checked && isOpenAt(p) !== true) return false;
+  var q = document.getElementById('search').value.trim().toLowerCase();
+  if (q) {
+    var blob = ((p.name || '') + ' ' + (p.name_jp || '') + ' ' + (p.area || '') + ' ' + (p.cuisine || '') + ' ' + (p.categories || []).join(' ')).toLowerCase();
+    if (blob.indexOf(q) === -1) return false;
+  }
+  return true;
+}
+
+function applyFilters() {
+  var visible = 0;
+  clusterGroup.clearLayers();
+  allMarkers.forEach(function(m) {
+    if (pass(m.options.feature.properties)) {
+      clusterGroup.addLayer(m);
+      visible++;
+    }
+  });
+  document.getElementById('stats-line').textContent =
+    visible + ' / ' + TOTAL + ' shown · Tabelog 3.4+';
+}
+
+['change', 'input'].forEach(function(evt) {
+  ['tabelog-min', 'review-min', 'top-picks', 'open-now', 'search'].forEach(function(id) {
+    document.getElementById(id).addEventListener(evt, applyFilters);
+  });
+});
+document.querySelectorAll('.cat-cb').forEach(function(cb) {
+  cb.addEventListener('change', applyFilters);
+});
+document.getElementById('reset-filters').addEventListener('click', function() {
+  document.getElementById('tabelog-min').value = '3.4';
+  document.getElementById('review-min').value = '0';
+  document.querySelectorAll('.cat-cb').forEach(function(cb) { cb.checked = false; });
+  document.getElementById('top-picks').checked = false;
+  document.getElementById('open-now').checked = false;
+  document.getElementById('search').value = '';
+  applyFilters();
+});
+
+// ── Sidebar toggle (mobile) ─────────────────────────────────────────
+var sidebar = document.getElementById('sidebar');
+function isMobile() { return window.innerWidth < 768; }
+if (isMobile()) sidebar.classList.remove('open');
+document.getElementById('sidebar-toggle').addEventListener('click', function() {
+  sidebar.classList.toggle('open');
+});
+document.getElementById('map').addEventListener('click', function() {
+  if (isMobile()) sidebar.classList.remove('open');
+});
+
+// ── Japan time display ─────────────────────────────────────────────
+function updateJapanTime() {
+  var el = document.getElementById('japan-time');
+  if (!el) return;
+  var s = new Intl.DateTimeFormat('en-US', {
+    timeZone: 'Asia/Tokyo', hour12: false,
+    hour: '2-digit', minute: '2-digit', second: '2-digit',
+    weekday: 'short', day: 'numeric', month: 'short'
+  }).format(new Date());
+  el.textContent = '🕒 Japan: ' + s;
+  el.classList.add('live');
+}
+if (HAS_HOURS) { updateJapanTime(); setInterval(updateJapanTime, 30000); }
+
+// ── GPS (best-effort) ─────────────────────────────────────────────
+var gpsBtn = document.getElementById('gps-btn');
+var gpsWatchId = null;
+var userMarker = null;
+var firstFix = true;
+function startGps() {
+  if (gpsWatchId !== null) return;
+  if (!navigator.geolocation) { if (gpsBtn) gpsBtn.classList.remove('active'); return; }
+  if (gpsBtn) gpsBtn.classList.add('active');
+  firstFix = true;
+  gpsWatchId = navigator.geolocation.watchPosition(function(pos) {
+    var uLat = pos.coords.latitude, uLng = pos.coords.longitude;
+    if (userMarker) { map.removeLayer(userMarker); }
+    userMarker = L.circleMarker([uLat, uLng], { radius: 9, fillColor: '#ef4444', color: '#fff', weight: 2, fillOpacity: 1 }).addTo(map);
+    if (firstFix) { map.setView([uLat, uLng], 14); firstFix = false; }
+  }, function() {}, { enableHighAccuracy: true, maximumAge: 30000, timeout: 27000 });
+}
+function stopGps() {
+  if (gpsWatchId !== null) { navigator.geolocation.clearWatch(gpsWatchId); gpsWatchId = null; }
+  if (userMarker) { map.removeLayer(userMarker); userMarker = null; }
+  if (gpsBtn) gpsBtn.classList.remove('active');
+}
+if (gpsBtn) {
+  gpsBtn.addEventListener('click', function() {
+    if (gpsWatchId === null) startGps(); else stopGps();
+  });
+}
+
+// Auto-fit to visible bounds
+if (allMarkers.length) {
+  var bounds = L.latLngBounds(allMarkers.map(function(m){ return m.getLatLng(); }));
+  if (bounds.isValid()) map.fitBounds(bounds.pad(0.1));
+}
+
+})();
+</script>
+</body>
+</html>

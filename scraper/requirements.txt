@@ -1,0 +1,6 @@
+requests>=2.31
+beautifulsoup4>=4.12
+
+# Optional anti-bot fallback engine (only needed if Tabelog returns HTTP 403):
+#   pip install playwright && playwright install chromium
+# playwright>=1.44
