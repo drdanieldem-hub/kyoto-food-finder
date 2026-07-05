@@ -1,0 +1,86 @@
+# Memory archive lives on the `memory-archive` branch, not main.
+# The cron job writes one file per run to memory-archive/; we don't
+# want those cluttering main.
+memory-archive/
+
+# Daily snapshots live on the `backups/daily` branch — see scripts/daily_backup.py.
+backups/
+
+# experiments/ holds per-project clones (each has its own .git). We never want
+# them tracked inside this repo.
+experiments/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+kyoto-venv/
+
+# Environment / secrets
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+
+# IDE / editor
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Node (if used for web work)
+node_modules/
+.next/
+.nuxt/
+dist/
+.cache/
+
+# Build / test artifacts
+.coverage
+htmlcov/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.tox/
+*.log
+logs/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Project-specific scratch
+scratch/
+tmp/
+debug_page.html
+scraper/.cache/
+scraper/tabelog_list.json
+scraper/tabelog_list_flat.json
+scraper/tabelog_full.json
+scraper/tabelog_full_flat.json
+scraper/final_restaurants_kyoto.json
+scraper/final_restaurants_kyoto_hotpepper.json
+*.cache.json
