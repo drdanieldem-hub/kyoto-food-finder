@@ -32,6 +32,12 @@ import sys
 #   "Kaiseki": the headline category — Kyoto's signature cuisine
 #   "Shojin": Buddhist vegetarian cuisine, also uniquely Kyoto
 #   "Tofu": ryōri (e.g. Sagano-yu) — distinctly Kansai
+#
+# Important: Tabelog's `cuisine` field never tags "懐石"/"京料理" explicitly.
+# Tokyo-area restaurants get "和食" or "日本料理"; we treat high-rated
+# "日本料理" (>= 4.0) as Kaiseki by default since that's effectively what
+# Kyoto's top Japanese restaurants ARE. Lower-rated 日本料理 stays in
+# the broad "Japanese" bucket. The '_kaiseki' helper uses rating context.
 CATEGORY_KEYWORDS = {
     "Kaiseki":  ["懐石", "会席", "kaiseki", "Kaiseki", "京料理", "京懐石"],
     "Shojin":   ["精進", "shojin", "Shojin", "精進料理"],
@@ -43,7 +49,7 @@ CATEGORY_KEYWORDS = {
     "Yakiniku": ["焼肉", "やきにく", "Yakiniku", "ホルモン"],
     "Tonkatsu": ["とんかつ", "トンカツ", "Tonkatsu", "カツ"],
     "Unagi":    ["うなぎ", "ウナギ", "Unagi", "鰻"],
-    "Japanese": ["日本料理", "和食", "Japanese", "京料理"],
+    "Japanese": ["日本料理", "和食", "Japanese"],
     "Soba":     ["そば", "ソバ", "Soba", "蕎麦"],
     "Udon":     ["うどん", "ウドン", "Udon"],
     "Curry":    ["カレー", "Curry", "カリー"],
@@ -52,15 +58,23 @@ CATEGORY_KEYWORDS = {
     "Pizza":    ["ピザ", "Pizza", "Pizzeria", "ピッツェリア", "Trattoria", "Italian"],
 }
 ALL_CATEGORIES = list(CATEGORY_KEYWORDS.keys())
+KAISEKI_RATING_MIN = 4.0  # "日本料理" ≥ 4.0 = kaiseki (Kyoto convention)
 
 
-def classify(cuisine_text: str) -> list[str]:
+def classify(cuisine_text: str, tabelog_rating: float | None = None) -> list[str]:
     cats: list[str] = []
     for cat, keywords in CATEGORY_KEYWORDS.items():
         for kw in keywords:
             if kw in cuisine_text:
                 cats.append(cat)
                 break
+    # Promote high-rated "日本料理" / "和食" to Kaiseki — Tabelog doesn't tag
+    # kaiseki explicitly in the Kyoto area; these are signature fine-dining
+    # spots by definition.
+    if (tabelog_rating or 0) >= KAISEKI_RATING_MIN:
+        if "日本料理" in cuisine_text or "和食" in cuisine_text:
+            if "Kaiseki" not in cats:
+                cats.append("Kaiseki")
     if not cats:
         cats = ["Other"]
     return cats
@@ -83,7 +97,7 @@ def build_geojson(restaurants: list[dict]) -> dict:
         # Prefer Hotpepper address if available (English-friendly), else Tabelog
         addr = (r.get("google_address") or "").strip() or r.get("address", "")
         cuisine = r.get("cuisine", "")
-        cats = classify(cuisine)
+        cats = classify(cuisine, r.get("tabelog_rating"))
         feat = {
             "type": "Feature",
             "geometry": {"type": "Point", "coordinates": [lng, lat]},
@@ -121,7 +135,7 @@ def category_counts(restaurants: list[dict]) -> dict[str, int]:
     counts = {cat: 0 for cat in ALL_CATEGORIES}
     counts["Other"] = 0
     for r in restaurants:
-        cats = classify(r.get("cuisine", ""))
+        cats = classify(r.get("cuisine", ""), r.get("tabelog_rating"))
         for c in cats:
             counts[c] = counts.get(c, 0) + 1
     return counts
@@ -637,12 +651,17 @@ if __name__ == "__main__":
         sample = [{"name":"鮨 鶴清", "tabelog_rating":3.85, "cuisine":"寿司",
                    "area":"祇園", "address":"...", "lat":35.0036, "lng":135.7781,
                    "url":"x", "ward":"Higashiyama"}]
-        cats = classify("寿司")
+        cats = classify("寿司", 4.5)
         assert "Sushi" in cats, cats
+        # High-rated 日本料理 → Kaiseki promotion
+        cats2 = classify("日本料理", 4.5)
+        assert "Kaiseki" in cats2 and "Japanese" in cats2, cats2
+        cats3 = classify("日本料理", 3.6)
+        assert "Kaiseki" not in cats3 and "Japanese" in cats3, cats3
         gj = build_geojson(sample)
         assert gj["features"][0]["properties"]["tabelog_rating"] == 3.85, gj
         thresh = top_picks_threshold(gj["features"])
         assert thresh == 3.85, thresh
-        print("selftest OK - classify, build_geojson, top_picks_threshold all pass")
+        print("selftest OK - classify, kaiseki promotion, build_geojson, top_picks_threshold all pass")
     else:
         main()
